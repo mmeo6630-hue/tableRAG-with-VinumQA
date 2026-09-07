@@ -1,0 +1,2 @@
+Method,Dataset,VinumQA Match,Strict EM,Mean Total Latency,Weighted Latency / Step
+TableRAG (grok-build-0.1),VinumQA-50 (n=50),4.0,0.0,84.17873586783998,20.63204310486274

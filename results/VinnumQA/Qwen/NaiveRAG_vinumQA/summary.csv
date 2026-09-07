@@ -1,0 +1,151 @@
+﻿Index,Batch_ID,Question_ID,Table_ID,Source_ID,Question,Gold_Answer,Qwen_Answer,Exact_Match,LLM_Judge,Status,Num_Iterations,Num_Retrieved_Chunks,Total_Latency_Sec,Retrieval_Latency_Sec,LLM_Latency_Sec,API_Call_Count,Input_Tokens,Output_Tokens,Total_Tokens
+1,1,6ed57e2cc8e3a916,vinumqa_0001,masvn/2020/2020039-Ver_1_VN_DRC_Initiate_Jan_08_M/page_1_QA1,Doanh thu cao nhất trong giai đoạn FY17-FY21 là bao nhiêu (tỷ VND)?,4216.0,Doanh thu cao nhất trong giai đoạn FY17-FY21 là 4.216 tỷ VND (tương ứng với FY20).,0,NOT_RUN,success,1,3,4.2318,3.0023,1.2247,1,1436,36,1472
+2,1,53e4ecb424fb32b7,vinumqa_0002,IP/2015/page_46.pdf-3,Biên lợi nhuận đóng gói tiêu dùng trong năm 2013 là bao nhiêu?,0.04687,Biên lợi nhuận bán hàng trung bình của mảng bao bì tiêu dùng châu Âu năm 2013 là 100 triệu đô la.,0,NOT_RUN,success,1,3,3.7092,2.8178,0.8905,1,1148,35,1183
+3,1,07533e4ae61fe888,vinumqa_0003,masvn/2020/2020045-PNJ010320Initiation.VN/page_12_QA6,Giá trị EBIT thấp nhất trong giai đoạn 2014-2019?,268.0,"Giá trị EBIT thấp nhất trong giai đoạn 2014-2019 là 268, xảy ra vào năm 2015.",0,NOT_RUN,success,1,3,3.9719,3.0481,0.9227,1,936,37,973
+4,1,77ca979a0884a3dd,vinumqa_0004,masvn/2021/2021132-VNREE_Updatereport_Hold_MAS_10042021/page_6_QB4,Lợi nhuận sau thuế của VSH trong năm 2021 tăng bao nhiêu tỷ đồng so với năm 2020?,293.0,"Lợi nhuận sau thuế của VSH trong năm 2021 tăng khoảng 332,2 tỷ đồng so với năm 2020.",0,NOT_RUN,success,1,3,4.0916,3.0399,1.0511,1,990,34,1024
+5,1,a60f6763aff3c35f,vinumqa_0005,masvn/2022/2022033-2022-Apr-Strategy-VN_Equity_KCN_MAS-N/page_6_QA8,Biên lợi nhuận hoạt động kinh doanh (Biên LN HĐKD) cao nhất trong giai đoạn được liệt kê là bao nhiêu phần trăm?,25.7,"Biên lợi nhuận hoạt động kinh doanh (Biên LN HĐKD) cao nhất trong giai đoạn được liệt kê là 38,5%.",0,NOT_RUN,success,1,3,4.0604,3.1883,0.8716,1,1467,35,1502
+6,1,dba2f48e8cfd3388,vinumqa_0006,ABMD/2011/page_33.pdf-3,Tỷ suất lợi nhuận đầu tư (ROI) của khoản đầu tư vào chỉ số Nasdaq Composite từ tháng 3 năm 2006 đến tháng 3 năm 2009 là bao nhiêu?,-0.3467,"Tỷ suất lợi nhuận đầu tư (ROI) của khoản đầu tư vào chỉ số Nasdaq Composite từ tháng 3 năm 2006 đến tháng 3 năm 2009 được tính như sau:
+
+- Giá trị đầu tư ban đầu (ngày 31/3/2006): 100  
+- Giá trị cuối kỳ (ngày 31/3/2009): 65.33  
+
+Công thức tính ROI:  
+\[
+ROI = \left( \frac{\text{Giá trị cuối kỳ} - \text{Giá trị đầu kỳ}}{\text{Giá trị đầu kỳ}} \right) \times 100
+\]
+
+\[
+ROI = \left( \frac{65.33 - 100}{100} \right) \times 100 = -34.67\%
+\]
+
+Vậy tỷ suất lợi nhuận đầu tư (ROI) là **-34,67%**.",0,NOT_RUN,success,1,3,4.6207,2.707,1.9128,1,1034,220,1254
+7,1,aba68a617a0cf19a,vinumqa_0007,ETR/2004/page_163.pdf-4,Mức tăng chi phí xây dựng tính theo phần trăm so với mức tăng tiền mặt ròng sử dụng trong hoạt động đầu tư năm 2003 là bao nhiêu?,0.65153,"Mức tăng chi phí xây dựng trong năm 2003 là 57,4 triệu đô la. Mức tăng tiền mặt ròng sử dụng trong hoạt động đầu tư trong năm 2003 là 88,1 triệu đô la.  
+
+Tỷ lệ phần trăm của mức tăng chi phí xây dựng so với mức tăng tiền mặt ròng sử dụng trong hoạt động đầu tư năm 2003 được tính như sau:  
+(57,4 / 88,1) × 100 ≈ 65,15%.  
+
+Vì vậy, mức tăng chi phí xây dựng tính theo phần trăm so với mức tăng tiền mặt ròng sử dụng trong hoạt động đầu tư năm 2003 là khoảng **65,15%**.",0,NOT_RUN,success,1,3,4.2074,2.6162,1.5907,1,909,169,1078
+8,1,0eb69867f3de6f97,vinumqa_0008,PPG/2013/page_54.pdf-1,tỷ lệ tăng trung bình trong số dư lợi ích thuế chưa được công nhận từ năm 2011 đến 2013 là bao nhiêu?,0.90147,"Dựa trên bảng dữ liệu từ file vinumqa_0008.xlsx, số dư lợi ích thuế chưa được công nhận tại ngày 31 tháng 12 là:
+
+- Năm 2011: 107 triệu đô la  
+- Năm 2012: 82 triệu đô la  
+- Năm 2013: 85 triệu đô la  
+
+Tỷ lệ tăng trung bình từ năm 2011 đến 2013 được tính như sau:
+
+- Từ 2011 đến 2012: (82 - 107) / 107 = -23,36%  
+- Từ 2012 đến 2013: (85 - 82) / 82 = 3,66%  
+
+Tỷ lệ tăng trung bình (tính theo tỷ lệ thay đổi hàng năm):  
+((1 + (-0,2336)) × (1 + 0,0366))^(1/2) - 1 ≈ -0,104 hoặc -10,4%
+
+Tuy nhiên, do đề bài yêu cầu ""tỷ lệ tăng trung bình"", và giá trị giảm từ 2011 đến 2012, nên không có tăng trưởng dương. Tỷ lệ tăng trung bình là âm.
+
+Kết luận: Tỷ lệ tăng trung bình trong số dư lợi ích thuế chưa được công nhận từ năm 2011 đến 2013 là **-10,4%**.",0,NOT_RUN,success,1,3,5.3997,2.9543,2.4446,1,1074,343,1417
+9,1,fea7e78932a43c31,vinumqa_0009,masvn/2021/2021146-NAF_BClandau_MUA_MAS_20211026/page_1_QA8,Doanh thu thuần cao nhất trong giai đoạn 2019-2023F là bao nhiêu (tỷ đồng)?,2333.0,Doanh thu thuần cao nhất trong giai đoạn 2019-2023F là 2333 tỷ đồng (năm 2023F).,0,NOT_RUN,success,1,3,3.8335,2.723,1.1093,1,1524,41,1565
+10,1,cc8d09b602aeb047,vinumqa_0010,MRO/2015/page_56.pdf-2,"Chi phí vốn trung bình hàng năm cho bộ phận doanh nghiệp là bao nhiêu, tính bằng triệu đô la?",44.66667,Chi phí vốn trung bình hàng năm cho bộ phận doanh nghiệp là 15.762 triệu đô la (dựa trên dòng tiền sử dụng cho hoạt động đầu tư trong năm 2017 từ bảng dữ liệu vinumqa_0029.xlsx).,0,NOT_RUN,success,1,3,3.1903,2.0641,1.1257,1,1047,59,1106
+11,2,6241c1035d56ee4d,vinumqa_0011,JPM/2007/page_152.pdf-2,Tài sản trung bình (tính bằng tỷ đô la) của từng quỹ tự tài trợ của công ty là bao nhiêu?,390.525,"Tài sản trung bình của từng quỹ tự tài trợ (tính bằng tỷ đô la) được tính dựa trên giá trị hợp lý của các khoản đầu tư tại tháng 12 năm 2012:
+
+- Quỹ đầu tư tư nhân: 7,680 tỷ đô la  
+- Quỹ tín dụng: 3,927 tỷ đô la  
+- Quỹ phòng hộ: 2,167 tỷ đô la  
+- Quỹ bất động sản: 2,006 tỷ đô la  
+
+Tổng tài sản trung bình của các quỹ là 15,780 tỷ đô la.",0,NOT_RUN,success,1,3,3.7123,2.2056,1.506,1,835,138,973
+12,2,f9c21e94896b6005,vinumqa_0012,C/2009/page_141.pdf-2,Tỷ lệ phần trăm tăng thêm cho các khoản bổ sung bán hàng mới của dự trữ mua lại từ năm 2008 đến năm 2009 là bao nhiêu?,0.43478,"Dựa trên thông tin được cung cấp, không có dữ liệu cụ thể về tỷ lệ phần trăm tăng thêm cho các khoản bổ sung bán hàng mới của dự trữ mua lại từ năm 2008 đến năm 2009. Do đó, không thể xác định chính xác tỷ lệ phần trăm tăng thêm theo yêu cầu.",0,NOT_RUN,success,1,3,4.0473,2.6602,1.3864,1,1032,72,1104
+13,2,2cf9f92797f985db,vinumqa_0013,masvn/2022/2022051-VN_VHM_Update_Buy_Q1_2022_20220602/page_1_QB3,Lợi nhuận sau thuế (LNST) dự báo cho năm 2024 là bao nhiêu tỷ đồng?,40791.0,Lợi nhuận sau thuế (LNST) dự báo cho năm 2024 là 40.791 tỷ đồng.,0,NOT_RUN,success,1,3,4.11,2.9912,1.1183,1,1501,29,1530
+14,2,911f58bf5305ecfa,vinumqa_0014,HUM/2018/page_46.pdf-1,lợi nhuận cao nhất trong năm đầu tiên của khoản đầu tư là bao nhiêu?,40.0,"Dựa trên ngữ cảnh được cung cấp, không có thông tin nào cho biết lợi nhuận cao nhất trong năm đầu tiên của khoản đầu tư. Do đó, không thể xác định được con số cụ thể.",0,NOT_RUN,success,1,3,3.6225,2.6118,1.0098,1,806,44,850
+15,2,cb69624b08f7e46e,vinumqa_0015,GPN/2009/page_85.pdf-4,Tổng thu nhập hàng năm của một nhân viên là bao nhiêu?,125000.0,"Dựa trên các tài liệu được trích dẫn, không có thông tin nào cung cấp tổng thu nhập hàng năm cụ thể của một nhân viên. Do đó, không thể xác định được tổng thu nhập hàng năm của một nhân viên từ các dữ liệu đã cho.",0,NOT_RUN,success,1,3,4.0229,3.0169,1.0046,1,1340,55,1395
+16,2,ae53ef1f97228793,vinumqa_0016,PNC/2014/page_156.pdf-1,Tổng dự phòng cụ thể trong danh mục TDR tổng thể tính bằng tỷ đồng vào ngày 31 tháng 12 năm 2014 và ngày 31 tháng 12 năm 2013 là bao nhiêu?,0.9,Tổng dự phòng cụ thể trong danh mục TDR tổng thể tính bằng tỷ đồng vào ngày 31 tháng 12 năm 2014 là 4 tỷ đô la và vào ngày 31 tháng 12 năm 2013 là 5 tỷ đô la.,0,NOT_RUN,success,1,3,4.0552,3.0415,1.013,1,902,62,964
+17,2,af6af8c2abaf62b0,vinumqa_0017,masvn/2021/2021130-210927_ACB_2H21_outlook_vn/page_1_QA7,"Dựa trên P/B dự phóng cuối năm 2022 và P/B hợp lý, tiềm năng tăng giá là bao nhiêu phần trăm?",0.25,"Dựa trên P/B dự phóng cuối năm 2022 là 1,6x và P/B hợp lý là 2 lần, tiềm năng tăng giá là khoảng 25%.",0,NOT_RUN,success,1,3,3.287,2.3363,0.9501,1,912,40,952
+18,2,bafcb6d69bb9e99a,vinumqa_0018,UAA/2017/page_52.pdf-4,Phần nào của tổng thu nhập hoạt động được tạo ra bởi phân khúc Bắc Mỹ trong năm 2015?,1.12829,"Trong năm 2015, thu nhập hoạt động từ phân khúc Bắc Mỹ là 461,0 triệu đô la.",0,NOT_RUN,success,1,3,3.0676,2.1958,0.8706,1,1105,29,1134
+19,2,4c37b171f1da2769,vinumqa_0019,masvn/2020/2020127-PC1_Companynote_MAS02.10.2020/page_1_QA7,Tổng công suất (MW) của các nhà máy thủy điện mới đi vào hoạt động năm 2020 và dự án Bảo Lạc A dự kiến là bao nhiêu?,84.0,Tổng công suất của các nhà máy thủy điện mới đi vào hoạt động năm 2020 là 54 MW. Dự án Bảo Lạc A dự kiến có công suất 30 MW.,0,NOT_RUN,success,1,3,4.2701,2.5656,1.7031,1,1088,44,1132
+20,2,db99c5e483886c2a,vinumqa_0020,IPG/2015/page_79.pdf-2,Giá cổ phiếu dựa trên tỷ suất cổ tức tại thời điểm cổ tức được tuyên bố là bao nhiêu?,12.5,"Giá cổ phiếu dựa trên tỷ suất cổ tức tại thời điểm cổ tức được tuyên bố là 0,30 đô la mỗi cổ phiếu hàng quý, tương ứng với 1,20 đô la mỗi cổ phiếu hàng năm.",0,NOT_RUN,success,1,3,3.2414,2.1967,1.0441,1,948,49,997
+21,3,e477e91dd73506dc,vinumqa_0021,SNPS/2006/page_67.pdf-3,Tỷ lệ phần trăm công nghệ hiện có trong tổng tài sản vô hình là bao nhiêu?,0.65,"Tỷ lệ phần trăm công nghệ hiện có trong tổng tài sản vô hình là 65% (3,9 triệu đô la công nghệ hiện có trên tổng 6,0 triệu đô la tài sản vô hình).",0,NOT_RUN,success,1,3,4.2522,2.5656,1.6859,1,1100,45,1145
+22,3,caf683e0dfae7289,vinumqa_0022,masvn/2021/2021024-VN_CTD_Update_Buy_1Q21/page_1_QA8,Doanh thu năm 2020 đã giảm bao nhiêu phần trăm so với năm 2019?,0.38495,Doanh thu năm 2020 đã giảm 28% so với năm 2019.,0,NOT_RUN,success,1,3,3.5986,2.7617,0.8363,1,1161,24,1185
+23,3,238439be38cf05e5,vinumqa_0023,masvn/2020/2020034-BSR-Update9M2019-31102019/page_1_QA1,Lợi nhuận sau thuế (LNST) thấp nhất (tính bằng VNDbn) trong giai đoạn được báo cáo là bao nhiêu?,129.0,"Lợi nhuận sau thuế (LNST) thấp nhất trong giai đoạn được báo cáo là 120 VNDbn, ghi nhận trong năm FY 2018 theo bảng vinumqa_0031.xlsx.",0,NOT_RUN,success,1,3,4.2267,3.2093,1.0165,1,1378,51,1429
+24,3,23717ab10aff5a44,vinumqa_0024,masvn/2022/2022033-2022-Apr-Strategy-VN_Equity_KCN_MAS-N/page_9_QA3,"Dựa trên giá mục tiêu của IDC và EPS dự phóng cho năm 2022, tỷ lệ P/E ngụ ý là bao nhiêu?",11.76088,"Dựa trên EPS dự phóng cho năm 2022 là 7.645 đ/cp và P/E forward ở mức 14,1 lần, giá mục tiêu của IDC có thể được suy ra từ công thức:  
+Giá mục tiêu = EPS dự phóng × P/E ngụ ý  
+Giá mục tiêu = 7.645 × 14,1 = 107.894,5 đ/cp.
+
+Tuy nhiên, câu hỏi chỉ yêu cầu tỷ lệ P/E ngụ ý, và trong đoạn [1] đã nêu rõ: ""tương ứng p/e forward ở mức 14,1 lần"".
+
+Vì vậy, tỷ lệ P/E ngụ ý là **14,1 lần**.",0,NOT_RUN,success,1,3,4.9829,2.7303,2.2509,1,839,163,1002
+25,3,50abdb20e9828b8b,vinumqa_0025,VNO/2003/page_97.pdf-2,"Sự thay đổi trong các khoản thanh toán gốc đến hạn năm 2006 so với năm 2007 là bao nhiêu, tính bằng nghìn?",-256245.0,"Sự thay đổi trong các khoản thanh toán gốc đến hạn năm 2006 so với năm 2007 là:  
+$ 75896 - $ 624539 = -548643 (nghìn).  
+
+Vậy sự thay đổi là **-548.643 nghìn**.",0,NOT_RUN,success,1,3,3.3996,2.2441,1.1549,1,723,80,803
+26,3,6b1f441ea71fd6dd,vinumqa_0026,masvn/2022/2022047-PNJ_Companynote_MAS03.05.2022/page_1_QB9,Tổng tăng trưởng doanh thu mảng bán lẻ và bán sỉ dự kiến trong năm 2022 là bao nhiêu phần trăm?,56.4,"Tổng tăng trưởng doanh thu mảng bán lẻ và bán sỉ dự kiến trong năm 2022 là 44,3% và 12,1% cùng kỳ.",0,NOT_RUN,success,1,3,3.6095,2.6391,0.9697,1,1108,43,1151
+27,3,1e0b0ddc3b61e2d7,vinumqa_0027,masvn/2020/2020050-200414_VCB_2019_review_vn/page_1_QA9,Lợi nhuận hoạt động trước dự phòng dự kiến sẽ tăng bao nhiêu (tỷ đồng) từ năm 2020 đến năm 2021?,6451.0,"Lợi nhuận hoạt động trước dự phòng năm 2020 là 589 tỷ đồng.  
+Lợi nhuận hoạt động trước dự phòng năm 2021 là 549 tỷ đồng.  
+
+Tuy nhiên, theo dữ liệu trong [1], lợi nhuận trước thuế năm 2021 là 549 tỷ đồng (+18% yoy), và năm 2020 là 589 tỷ đồng (-33,9% yoy). Do đó, lợi nhuận hoạt động trước dự phòng từ năm 2020 đến năm 2021 giảm 40 tỷ đồng (589 - 549 = 40).  
+
+Vì vậy, lợi nhuận hoạt động trước dự phòng **giảm** 40 tỷ đồng từ năm 2020 đến năm 2021.",0,NOT_RUN,success,1,3,5.1343,3.0993,2.0329,1,1111,186,1297
+28,3,98f35c691b930487,vinumqa_0028,SWKS/2010/page_105.pdf-3,Tỷ lệ thay đổi phần trăm của dòng tiền ròng ra trong năm 2010 so với năm 2009 là bao nhiêu?,0.92525,"Tỷ lệ thay đổi phần trăm của dòng tiền ròng ra trong năm 2010 so với năm 2009 là:
+
+- Dòng tiền chi ra ròng năm 2010: 38,6 triệu đô la  
+- Dòng tiền chi ra ròng năm 2009: 30,2 triệu đô la  
+
+Công thức tính tỷ lệ thay đổi phần trăm:  
+((38,6 - 30,2) / 30,2) × 100 = (8,4 / 30,2) × 100 ≈ 27,81%
+
+Vậy tỷ lệ thay đổi phần trăm là khoảng **27,81%**.",0,NOT_RUN,success,1,3,4.3282,2.7389,1.5874,1,1102,162,1264
+29,3,011ce542523a6dfc,vinumqa_0029,INTC/2017/page_45.pdf-4,"Tính đến ngày 31 tháng 12 năm 2017, tỷ lệ phần trăm tiền mặt ròng sử dụng cho hoạt động đầu tư so với tiền mặt ròng cung cấp bởi hoạt động kinh doanh là bao nhiêu?",0.71289,"Tính đến ngày 31 tháng 12 năm 2017, tiền thuần sử dụng cho hoạt động đầu tư là -15.762 triệu đô la, và tiền thuần từ hoạt động kinh doanh là 22.110 triệu đô la.
+
+Tỷ lệ phần trăm tiền mặt ròng sử dụng cho hoạt động đầu tư so với tiền mặt ròng cung cấp bởi hoạt động kinh doanh được tính như sau:
+
+\[
+\frac{15.762}{22.110} \times 100 \approx 71,29\%
+\]
+
+Vì vậy, tỷ lệ phần trăm tiền mặt ròng sử dụng cho hoạt động đầu tư so với tiền mặt ròng cung cấp bởi hoạt động kinh doanh là **71,29%**.",0,NOT_RUN,success,1,3,4.6981,2.6306,2.0669,1,1073,182,1255
+30,3,c631f414055a756a,vinumqa_0030,masvn/2023/2023003-DBC_Companynote_MAS17.01.2023/page_1_QA2,Lãi ròng dự phóng cho năm 2023 chiếm bao nhiêu phần trăm so với doanh thu dự phóng cho cùng năm?,4.52004,"Lãi ròng dự phóng cho năm 2023 chiếm khoảng 4,52% so với doanh thu dự phóng cho cùng năm.  
+(Tính toán: (582 tỷ đồng / 12.876 tỷ đồng) × 100% ≈ 4,52%)",0,NOT_RUN,success,1,3,4.0779,2.7173,1.36,1,1254,68,1322
+31,4,aa069fa5d9ccd6c7,vinumqa_0031,masvn/2022/2022034-VN_RealEstate_2022_MAS/page_8_QB3,EPS (thu nhập trên mỗi cổ phiếu) của TDC năm 2022 dự kiến tăng bao nhiêu lần so với năm 2021?,2.46017,"Dựa trên thông tin được cung cấp, không có dữ liệu cụ thể về EPS (thu nhập trên mỗi cổ phiếu) của TDC năm 2022 hoặc mức tăng so với năm 2021. Do đó, không thể xác định chính xác số lần tăng trưởng EPS của TDC từ năm 2021 sang năm 2022.",0,NOT_RUN,success,1,3,3.4524,2.2508,1.2009,1,976,80,1056
+32,4,2cce2b48b8d2d6ac,vinumqa_0032,masvn/2020/2020046-FPTupdate2019_03022020_VN/page_1_QA1,tổng doanh thu của năm tài chính 2018 và 2019 là bao nhiêu (tỷ VND)?,50931.0,Tổng doanh thu của năm tài chính 2018 và 2019 là 50.931 tỷ VND (23.214 tỷ VND năm 2018 + 27.717 tỷ VND năm 2019).,0,NOT_RUN,success,1,3,4.0849,2.8924,1.1909,1,1536,66,1602
+33,4,e20982ccce401788,vinumqa_0033,ADI/2010/page_82.pdf-3,tỷ lệ phần trăm trung bình mà chi phí thuê giảm từ năm 2011 đến năm 2013 là bao nhiêu?,0.34994,"Dựa trên bảng dữ liệu từ file vinumqa_0033.xlsx, chi phí thuê hoạt động năm 2011 là $21.871, năm 2012 là $12.322, và năm 2013 là $9.078.
+
+Tính tỷ lệ phần trăm giảm từ năm 2011 đến năm 2013:
+
+- Giảm từ 2011 đến 2013:  
+  \( \frac{21.871 - 9.078}{21.871} \times 100\% = \frac{12.793}{21.871} \times 100\% \approx 58.5\% \)
+
+Tỷ lệ phần trăm trung bình hàng năm giảm từ 2011 đến 2013 (trong 2 năm) là:  
+\( \frac{58.5\%}{2} = 29.25\% \)
+
+Vậy tỷ lệ phần trăm trung bình mà chi phí thuê giảm từ năm 2011 đến năm 2013 là **29,25%**.",0,NOT_RUN,success,1,3,4.6639,2.2488,2.4146,1,911,274,1185
+34,4,c59709076a98b640,vinumqa_0034,IPG/2015/page_24.pdf-3,Số lượng cổ phiếu trung bình được mua trong tháng 10 và tháng 11 là bao nhiêu?,1633444.5,Số lượng cổ phiếu trung bình được mua trong tháng 10 là 2.140.511 và trong tháng 11 là 1.126.378.,0,NOT_RUN,success,1,3,3.4192,2.3798,1.0388,1,1022,45,1067
+35,4,47bd7906fa0faa6f,vinumqa_0035,GS/2012/page_129.pdf-4,"công ty đã mua lại khoảng 1,06 tỷ đô la các khoản đầu tư này trong quỹ phòng hộ trong năm kết thúc ngày 31 tháng 12 năm 2012. con số này chiếm bao nhiêu phần trăm trong tổng số quỹ còn lại vào ngày 31/12/21?",0.48916,"Công ty đã mua lại khoảng 1,06 tỷ đô la các khoản đầu tư trong quỹ phòng hộ trong năm kết thúc ngày 31 tháng 12 năm 2012. Theo bảng dữ liệu, giá trị hợp lý của các khoản đầu tư vào quỹ phòng hộ tính đến tháng 12 năm 2012 là 2.167 tỷ đô la. Tỷ lệ phần trăm của số tiền mua lại so với tổng giá trị đầu tư vào quỹ phòng hộ là:
+
+(1,06 / 2,167) × 100 ≈ 48,9%.
+
+Tuy nhiên, câu hỏi yêu cầu tỷ lệ phần trăm trong **tổng số quỹ còn lại** vào ngày 31/12/2012, tức là tổng giá trị hợp lý của tất cả các khoản đầu tư (từ bảng: 15.780 triệu đô la = 15,78 tỷ đô la). 
+
+Tính toán:  
+(1,06 / 15,78) × 100 ≈ 6,72%.
+
+Vì vậy, con số này chiếm khoảng **6,72%** trong tổng số quỹ còn lại vào ngày 31/12/2012.",0,NOT_RUN,success,1,3,4.7012,2.3605,2.3402,1,879,283,1162
+36,4,0e5adc555963a2c4,vinumqa_0036,masvn/2020/2020189-LCG_Companynote_MAS08.12.2020/page_1_QB4,Tỷ lệ lợi nhuận gộp mảng xây dựng (LNHDXD) năm 2020 giảm bao nhiêu phần trăm so với năm 2019?,2.0,"Tỷ lệ lợi nhuận gộp mảng xây dựng (LNHDXD) năm 2020 giảm 2,1 phần trăm so với năm 2019.",0,NOT_RUN,success,1,3,4.0162,3.0337,0.9809,1,1415,40,1455
+37,4,a80bfb3133ce9a50,vinumqa_0037,DISCA/2017/page_41.pdf-1,"Tính đến ngày 21 tháng 2 năm 2018, tổng số cổ đông sở hữu cổ phiếu phổ thông là bao nhiêu?",2797.0,"Tính đến ngày 21 tháng 2 năm 2018, tổng số cổ đông sở hữu cổ phiếu phổ thông là khoảng 1.308 (cổ phiếu phổ thông loại A), 75 (cổ phiếu phổ thông loại B) và 1.414 (cổ phiếu phổ thông loại C).",0,NOT_RUN,success,1,3,3.8715,2.5482,1.3218,1,1318,72,1390
+38,4,bd8f343fcf6fbc06,vinumqa_0038,LMT/2012/page_47.pdf-3,Tỷ lệ tăng trưởng lợi nhuận hoạt động của hệ thống không gian trong năm 2011 là bao nhiêu?,0.03204,"Tỷ lệ tăng trưởng lợi nhuận hoạt động của hệ thống không gian trong năm 2011 là khoảng 30 triệu đô la, chủ yếu do việc ghi nhận các khoản dự phòng cho một số chương trình hệ thống dưới biển trong năm 2010.",0,NOT_RUN,success,1,3,3.4748,2.4955,0.9778,1,1036,59,1095
+39,4,b0729061f94bd2e3,vinumqa_0039,IP/2012/page_93.pdf-4,Chi phí thuê trung bình từ năm 2010 đến 2012 là bao nhiêu?,324.5,Chi phí thuê trung bình từ năm 2010 đến 2012 là 215 triệu đô la.,0,NOT_RUN,success,1,3,3.0588,2.1566,0.9013,1,913,28,941
+40,4,30d8b6a7396b6f4b,vinumqa_0040,masvn/2020/2020079-CMX_Companynote_MAS20.07.2020/page_1_QB10,Tính phần trăm giảm biên lợi nhuận từ năm 2019 đến năm 2020 dự báo ?,-0.21801,"Biên lợi nhuận gộp của LCG giảm từ 18,1% (năm 2019) xuống 15,3% (năm 2020), tương ứng giảm 2,8 phần trăm.",0,NOT_RUN,success,1,3,3.9641,2.8568,1.1067,1,1226,53,1279
+41,5,b8be2f580b75ef97,vinumqa_0041,ETR/2003/page_84.pdf-2,"Số nợ dài hạn đến hạn trong 36 tháng tới tính đến ngày 31 tháng 12 năm 2003 là bao nhiêu, tính bằng triệu?",1041.531,"Dựa trên các tài liệu được trích dẫn, không có thông tin cụ thể về số nợ dài hạn đến hạn trong 36 tháng tới tính đến ngày 31 tháng 12 năm 2003. Do đó, không thể xác định chính xác con số này từ ngữ cảnh đã cho.",0,NOT_RUN,success,1,3,3.456,2.2429,1.2124,1,778,65,843
+42,5,377da13f85c63387,vinumqa_0042,masvn/2020/2020055-NVLQuý12020/page_1_QA3,doanh thu đã tăng bao nhiêu phần trăm từ năm tài chính 2018 đến 2019?,0.31448,"Từ năm tài chính 2018 đến 2019, doanh thu đã tăng 4.5% (tính từ 23733 tỷ đồng năm 2019H xuống 28561 tỷ đồng năm 2018H).",0,NOT_RUN,success,1,3,4.0171,2.9441,1.0707,1,1423,63,1486
+43,5,b8dabd4374b31c49,vinumqa_0043,ABMD/2004/page_26.pdf-2,Tổng số khoản thanh toán thuê tối thiểu trong tương lai sau 5 năm chiếm bao nhiêu phần trăm tổng số còn lại?,0.15465,"Tổng số khoản thanh toán thuê tối thiểu trong tương lai sau 5 năm là $708. Tổng các khoản thanh toán tiền thuê tối thiểu trong tương lai là $4578. Tỷ lệ phần trăm của khoản thanh toán sau 5 năm so với tổng còn lại là:
+
+(708 / (4578 - 708)) × 100% = (708 / 3870) × 100% ≈ 18,29%.
+
+Vậy tổng số khoản thanh toán thuê tối thiểu trong tương lai sau 5 năm chiếm khoảng **18,29%** tổng số còn lại.",0,NOT_RUN,success,1,3,4.5105,2.8133,1.6963,1,623,150,773
+44,5,fae193c9c50d35df,vinumqa_0044,masvn/2020/2020190-DHC_Companynote_MAS10.12.2020/page_1_QB9,Tính mức tăng sản lượng giấy kraft của DHC trong năm 2020 so với công suất thiết kế 280.000 tấn/năm.,1034.0,"Sản lượng giấy kraft của DHC trong năm 2020 đạt 281.034 tấn, tăng 198% so với cùng kỳ, tương đương công suất thiết kế 280.000 tấn/năm.",0,NOT_RUN,success,1,3,5.5343,4.4571,1.0766,1,1186,56,1242
+45,5,9abb81bb3573666a,vinumqa_0045,masvn/2020/2020155-201005_BID_3Q20-review-vn/page_6_QB5,Tính tỷ lệ phần trăm tăng trưởng lợi nhuận trước thuế quý 3 năm 2020 so với quý 3 năm 2019.,0.16559,Tỷ lệ phần trăm tăng trưởng lợi nhuận trước thuế quý 3 năm 2020 so với quý 3 năm 2019 không được cung cấp trực tiếp trong các tài liệu đã truy xuất.,0,NOT_RUN,success,1,3,4.2242,3.2191,1.0045,1,1171,47,1218
+46,5,73e4cbb1ae6d4b8b,vinumqa_0046,masvn/2020/2020192-LTG_Companynote_MAS15.12.2020/page_1_QB7,Tính tỷ lệ ROE năm 2021 dự báo so với năm 2020 ?,1.24242,"Tỷ lệ ROE năm 2021 dự báo không được đề cập trực tiếp trong các tài liệu đã cho. Tuy nhiên, từ thông tin trong tài liệu [2], mức ROE đầu ngành được dự phóng là 26,4% vào cuối năm 2022, và mức ROE hợp lý theo mô hình thu nhập thặng dư được kỳ vọng là 20,5% cho tăng trưởng dài hạn. Không có dữ liệu cụ thể về ROE năm 2021 so với năm 2020.",0,NOT_RUN,success,1,3,3.9906,2.6197,1.3704,1,948,118,1066
+47,5,2ec54f78572afb57,vinumqa_0047,IP/2006/page_31.pdf-1,Tỷ lệ phần trăm doanh số bán bao bì công nghiệp năm 2006 trên doanh số bán containerboard là bao nhiêu?,0.19391,"Dựa trên thông tin từ tài liệu, doanh thu thuần từ bìa carton tại Hoa Kỳ năm 2006 là 955 triệu đô la. Tuy nhiên, không có dữ liệu cụ thể về doanh số bán containerboard (bìa carton) trong năm 2006 để tính tỷ lệ phần trăm. Do đó, không thể xác định được tỷ lệ phần trăm doanh số bán bao bì công nghiệp năm 2006 trên doanh số bán containerboard.",0,NOT_RUN,success,1,3,3.9834,2.3447,1.6295,1,1166,113,1279
+48,5,fcd445b9b354882b,vinumqa_0048,RSG/2012/page_93.pdf-2,Tỷ lệ phần trăm thay đổi trong các khoản bổ sung tính vào chi phí từ năm 2011 đến 2012 trong phần dự phòng các khoản phải thu khó đòi là bao nhiêu?,0.41429,"Tỷ lệ phần trăm thay đổi trong các khoản bổ sung tính vào chi phí từ năm 2011 đến 2012 trong phần dự phòng các khoản phải thu khó đòi là:
+
+(29.7 - 21.0) / 21.0 × 100% = 41.43%
+
+Vì vậy, tỷ lệ phần trăm thay đổi là **41,43%**.",0,NOT_RUN,success,1,3,4.0623,2.6134,1.4484,1,857,95,952
+49,5,4a3193d58318307d,vinumqa_0049,AAL/2016/page_8.pdf-2,Phần nào trong tổng số nhân viên toàn thời gian của các hoạt động chính là tiếp viên hàng không?,0.24335,"Trong tổng số nhân viên toàn thời gian của các hoạt động chính, tiếp viên hàng không chiếm 26.900 trong tổng cộng 122.300, tương đương khoảng 21,99%.",0,NOT_RUN,success,1,3,3.1615,2.1485,1.0124,1,876,50,926
+50,5,2a639c07e211bb8e,vinumqa_0050,masvn/2020/2020053-200427_VCB_1Q20_review_vn/page_1_QA5,tính tỷ lệ lợi nhuận trước dự phòng trên tổng thu nhập dự kiến cho năm 2021.,0.65206,Tỷ lệ lợi nhuận trước dự phòng trên tổng thu nhập dự kiến cho năm 2021 không được cung cấp trực tiếp trong các tài liệu đã trích dẫn.,0,NOT_RUN,success,1,3,3.7884,2.6433,1.1435,1,1167,37,1204

@@ -1,0 +1,2 @@
+Method,Dataset,LLM judge (%),Exact Match (%),Total Latency,Avg. Latency / Step
+TableRAG (deepseek-v4-flash),VinumQA (Vietnamese),54,0,82.982484,82.982484

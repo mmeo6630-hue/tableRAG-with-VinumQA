@@ -1,0 +1,2 @@
+﻿Method,Dataset,VinumQA Match,Strict EM,Mean Total Latency,Weighted Latency / Step
+NaiveRAG (FP16),VinumQA-50 (n=50),12.0,2.0,21.312238332720035,

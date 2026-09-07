@@ -1,0 +1,67 @@
+﻿question_id,table_id,question,gold,prediction,status,strict_exact_match,normalized_exact_match,numeric_exact_match,vinumqa_match,total_latency_seconds,reasoning_steps,avg_latency_per_step_seconds,error
+6ed57e2cc8e3a916,vinumqa_0001,Doanh thu cao nhất trong giai đoạn FY17-FY21 là bao nhiêu (tỷ VND)?,4216.0,4216,ok,0,0,1,1,13.53862058499999,,,
+53e4ecb424fb32b7,vinumqa_0002,Biên lợi nhuận đóng gói tiêu dùng trong năm 2013 là bao nhiêu?,0.04687,**Empty answer**,ok,0,0,0,0,15.343172935999974,,,
+07533e4ae61fe888,vinumqa_0003,Giá trị EBIT thấp nhất trong giai đoạn 2014-2019?,268.0,268,ok,0,0,1,1,6.496292079999876,,,
+77ca979a0884a3dd,vinumqa_0004,Lợi nhuận sau thuế của VSH trong năm 2021 tăng bao nhiêu tỷ đồng so với năm 2020?,293.0,**Empty answer**,ok,0,0,0,0,24.878030665000097,,,
+a60f6763aff3c35f,vinumqa_0005,Biên lợi nhuận hoạt động kinh doanh (Biên LN HĐKD) cao nhất trong giai đoạn được liệt kê là bao nhiêu phần trăm?,25.7,56.1,ok,0,0,0,0,27.092503607999788,,,
+dba2f48e8cfd3388,vinumqa_0006,Tỷ suất lợi nhuận đầu tư (ROI) của khoản đầu tư vào chỉ số Nasdaq Composite từ tháng 3 năm 2006 đến tháng 3 năm 2009 là bao nhiêu?,-0.3467,-34.67%,ok,0,0,1,1,14.941664020999724,,,
+aba68a617a0cf19a,vinumqa_0007,Mức tăng chi phí xây dựng tính theo phần trăm so với mức tăng tiền mặt ròng sử dụng trong hoạt động đầu tư năm 2003 là bao nhiêu?,0.65153,65%,ok,0,0,0,0,31.00018099199997,,,
+0eb69867f3de6f97,vinumqa_0008,tỷ lệ tăng trung bình trong số dư lợi ích thuế chưa được công nhận từ năm 2011 đến 2013 là bao nhiêu?,0.90147,**Empty answer**,ok,0,0,0,0,38.95614934000014,,,
+fea7e78932a43c31,vinumqa_0009,Doanh thu thuần cao nhất trong giai đoạn 2019-2023F là bao nhiêu (tỷ đồng)?,2333.0,2333,ok,0,0,1,1,11.900656602000254,,,
+cc8d09b602aeb047,vinumqa_0010,"Chi phí vốn trung bình hàng năm cho bộ phận doanh nghiệp là bao nhiêu, tính bằng triệu đô la?",44.66667,(empty),ok,0,0,0,0,18.322796029000074,,,
+6241c1035d56ee4d,vinumqa_0011,Tài sản trung bình (tính bằng tỷ đô la) của từng quỹ tự tài trợ của công ty là bao nhiêu?,390.525,**Empty answer**,ok,0,0,0,0,11.603909091000332,,,
+f9c21e94896b6005,vinumqa_0012,Tỷ lệ phần trăm tăng thêm cho các khoản bổ sung bán hàng mới của dự trữ mua lại từ năm 2008 đến năm 2009 là bao nhiêu?,0.43478,**Empty answer**,ok,0,0,0,0,13.312665750999713,,,
+2cf9f92797f985db,vinumqa_0013,Lợi nhuận sau thuế (LNST) dự báo cho năm 2024 là bao nhiêu tỷ đồng?,40791.0,40791,ok,0,0,1,1,13.108548019999944,,,
+911f58bf5305ecfa,vinumqa_0014,lợi nhuận cao nhất trong năm đầu tiên của khoản đầu tư là bao nhiêu?,40.0,**Empty answer**,ok,0,0,0,0,8.588077369000075,,,
+cb69624b08f7e46e,vinumqa_0015,Tổng thu nhập hàng năm của một nhân viên là bao nhiêu?,125000.0,,empty_answer,0,0,0,0,8.30523083900016,,,
+ae53ef1f97228793,vinumqa_0016,Tổng dự phòng cụ thể trong danh mục TDR tổng thể tính bằng tỷ đồng vào ngày 31 tháng 12 năm 2014 và ngày 31 tháng 12 năm 2013 là bao nhiêu?,0.9,**Empty answer**,ok,0,0,0,0,12.32503233100033,,,
+af6af8c2abaf62b0,vinumqa_0017,"Dựa trên P/B dự phóng cuối năm 2022 và P/B hợp lý, tiềm năng tăng giá là bao nhiêu phần trăm?",0.25,25,ok,0,0,0,0,12.716152899999997,,,
+bafcb6d69bb9e99a,vinumqa_0018,Phần nào của tổng thu nhập hoạt động được tạo ra bởi phân khúc Bắc Mỹ trong năm 2015?,1.12829,$ 460961 (tính bằng nghìn),ok,0,0,0,0,30.69589842000005,,,
+4c37b171f1da2769,vinumqa_0019,Tổng công suất (MW) của các nhà máy thủy điện mới đi vào hoạt động năm 2020 và dự án Bảo Lạc A dự kiến là bao nhiêu?,84.0,"84
+
+The passages contain the following relevant details:
+- In Q2 and Q3/2020, PC1 operated 3 new hydroelectric plants with a total capacity of 54 MW.
+- PC1 plans to develop the Bảo Lạc A project (30 MW), expected to come online in Q4/2023.
+
+These are the only hydroelectric capacity figures provided. Adding them gives the total of 84 MW for the 2020 plants plus the Bảo Lạc A project. No other relevant hydroelectric capacities appear in the passages.",ok,0,0,0,0,19.82031658799997,,,
+db99c5e483886c2a,vinumqa_0020,Giá cổ phiếu dựa trên tỷ suất cổ tức tại thời điểm cổ tức được tuyên bố là bao nhiêu?,12.5,**Empty answer**,ok,0,0,0,0,13.294423726000332,,,
+e477e91dd73506dc,vinumqa_0021,Tỷ lệ phần trăm công nghệ hiện có trong tổng tài sản vô hình là bao nhiêu?,0.65,"65% 
+\confidence{70}",ok,0,0,0,0,24.305966935000015,,,
+caf683e0dfae7289,vinumqa_0022,Doanh thu năm 2020 đã giảm bao nhiêu phần trăm so với năm 2019?,0.38495,**Empty answer**,ok,0,0,0,0,17.20687275599994,,,
+238439be38cf05e5,vinumqa_0023,Lợi nhuận sau thuế (LNST) thấp nhất (tính bằng VNDbn) trong giai đoạn được báo cáo là bao nhiêu?,129.0,120,ok,0,0,0,0,24.33563603499988,,,
+23717ab10aff5a44,vinumqa_0024,"Dựa trên giá mục tiêu của IDC và EPS dự phóng cho năm 2022, tỷ lệ P/E ngụ ý là bao nhiêu?",11.76088,**Empty answer**,ok,0,0,0,0,14.830430594000063,,,
+50abdb20e9828b8b,vinumqa_0025,"Sự thay đổi trong các khoản thanh toán gốc đến hạn năm 2006 so với năm 2007 là bao nhiêu, tính bằng nghìn?",-256245.0,**Empty answer**,ok,0,0,0,0,15.766845877000378,,,
+6b1f441ea71fd6dd,vinumqa_0026,Tổng tăng trưởng doanh thu mảng bán lẻ và bán sỉ dự kiến trong năm 2022 là bao nhiêu phần trăm?,56.4,"""""",ok,0,0,0,0,21.539342240000224,,,
+1e0b0ddc3b61e2d7,vinumqa_0027,Lợi nhuận hoạt động trước dự phòng dự kiến sẽ tăng bao nhiêu (tỷ đồng) từ năm 2020 đến năm 2021?,6451.0,**Empty answer**,ok,0,0,0,0,15.154200838999714,,,
+98f35c691b930487,vinumqa_0028,Tỷ lệ thay đổi phần trăm của dòng tiền ròng ra trong năm 2010 so với năm 2009 là bao nhiêu?,0.92525,,empty_answer,0,0,0,0,50.86987209300014,,,
+011ce542523a6dfc,vinumqa_0029,"Tính đến ngày 31 tháng 12 năm 2017, tỷ lệ phần trăm tiền mặt ròng sử dụng cho hoạt động đầu tư so với tiền mặt ròng cung cấp bởi hoạt động kinh doanh là bao nhiêu?",0.71289,71%,ok,0,0,0,0,25.3282636670001,,,
+c631f414055a756a,vinumqa_0030,Lãi ròng dự phóng cho năm 2023 chiếm bao nhiêu phần trăm so với doanh thu dự phóng cho cùng năm?,4.52004,4.52%,ok,0,0,0,0,33.4909538349998,,,
+aa069fa5d9ccd6c7,vinumqa_0031,EPS (thu nhập trên mỗi cổ phiếu) của TDC năm 2022 dự kiến tăng bao nhiêu lần so với năm 2021?,2.46017,**Empty answer**,ok,0,0,0,0,11.96744232600031,,,
+2cce2b48b8d2d6ac,vinumqa_0032,tổng doanh thu của năm tài chính 2018 và 2019 là bao nhiêu (tỷ VND)?,50931.0,(empty),ok,0,0,0,0,12.270200755000133,,,
+e20982ccce401788,vinumqa_0033,tỷ lệ phần trăm trung bình mà chi phí thuê giảm từ năm 2011 đến năm 2013 là bao nhiêu?,0.34994,**Empty answer**,ok,0,0,0,0,31.258303877000344,,,
+c59709076a98b640,vinumqa_0034,Số lượng cổ phiếu trung bình được mua trong tháng 10 và tháng 11 là bao nhiêu?,1633444.5,1633444.5,ok,1,1,1,1,31.904817428000115,,,
+47bd7906fa0faa6f,vinumqa_0035,"công ty đã mua lại khoảng 1,06 tỷ đô la các khoản đầu tư này trong quỹ phòng hộ trong năm kết thúc ngày 31 tháng 12 năm 2012. con số này chiếm bao nhiêu phần trăm trong tổng số quỹ còn lại vào ngày 31/12/21?",0.48916,**Empty answer** (insufficient information in passages; no data for 2021 or total remaining funds as of 31/12/21),ok,0,0,0,0,16.56543352000017,,,
+0e5adc555963a2c4,vinumqa_0036,Tỷ lệ lợi nhuận gộp mảng xây dựng (LNHDXD) năm 2020 giảm bao nhiêu phần trăm so với năm 2019?,2.0,"2
+
+The relevant data is from the vinumqa_0036.xlsx table (matching the revenue and net profit forecasts in the vinumqa_0036.json passage):
+
+- Tỷ lệ LNHDXD (%) FY 2019: 13.2
+- Tỷ lệ LNHDXD (%) FY 2020(F): 11.2
+
+Difference: 13.2 - 11.2 = 2.",ok,0,0,0,0,32.26716436100014,,,
+a80bfb3133ce9a50,vinumqa_0037,"Tính đến ngày 21 tháng 2 năm 2018, tổng số cổ đông sở hữu cổ phiếu phổ thông là bao nhiêu?",2797.0,,empty_answer,0,0,0,0,24.610254169999735,,,
+bd8f343fcf6fbc06,vinumqa_0038,Tỷ lệ tăng trưởng lợi nhuận hoạt động của hệ thống không gian trong năm 2011 là bao nhiêu?,0.03204,**Empty answer**,ok,0,0,0,0,14.535760067999945,,,
+b0729061f94bd2e3,vinumqa_0039,Chi phí thuê trung bình từ năm 2010 đến 2012 là bao nhiêu?,324.5,215.333 triệu đô la,ok,0,0,0,0,19.889864364000005,,,
+30d8b6a7396b6f4b,vinumqa_0040,Tính phần trăm giảm biên lợi nhuận từ năm 2019 đến năm 2020 dự báo ?,-0.21801,**Empty answer**,ok,0,0,0,0,23.302671465999993,,,
+b8be2f580b75ef97,vinumqa_0041,"Số nợ dài hạn đến hạn trong 36 tháng tới tính đến ngày 31 tháng 12 năm 2003 là bao nhiêu, tính bằng triệu?",1041.531,**Empty answer**,ok,0,0,0,0,14.70421121499976,,,
+377da13f85c63387,vinumqa_0042,doanh thu đã tăng bao nhiêu phần trăm từ năm tài chính 2018 đến 2019?,0.31448,**Empty answer**,ok,0,0,0,0,21.858678330999737,,,
+b8dabd4374b31c49,vinumqa_0043,Tổng số khoản thanh toán thuê tối thiểu trong tương lai sau 5 năm chiếm bao nhiêu phần trăm tổng số còn lại?,0.15465,15%,ok,0,0,0,0,38.506737488,,,
+fae193c9c50d35df,vinumqa_0044,Tính mức tăng sản lượng giấy kraft của DHC trong năm 2020 so với công suất thiết kế 280.000 tấn/năm.,1034.0,1.034 tấn,ok,0,0,0,0,22.531444016000023,,,
+9abb81bb3573666a,vinumqa_0045,Tính tỷ lệ phần trăm tăng trưởng lợi nhuận trước thuế quý 3 năm 2020 so với quý 3 năm 2019.,0.16559,"16.6
+
+The retrieved passages contain a table with profit before tax (Lợi nhuận trước thuế) values aligned to quarterly periods based on matching growth rates and textual descriptions. Q3 2019 corresponds to 2319, and Q3 2020 corresponds to 2703. The table directly lists the year-over-year growth for this period as 16.6 under the row for Tăng trưởng so với cùng kỳ (%). This is consistent with the absolute values, as (2703 - 2319) / 2319 yields approximately 0.1656 (16.6% when rounded as shown in the data). No other periods match the specified quarters.",ok,0,0,0,0,26.01367131500001,,,
+73e4cbb1ae6d4b8b,vinumqa_0046,Tính tỷ lệ ROE năm 2021 dự báo so với năm 2020 ?,1.24242,"""""",ok,0,0,0,0,10.247254353000244,,,
+2ec54f78572afb57,vinumqa_0047,Tỷ lệ phần trăm doanh số bán bao bì công nghiệp năm 2006 trên doanh số bán containerboard là bao nhiêu?,0.19391,**Empty answer**,ok,0,0,0,0,58.105191575999925,,,
+fcd445b9b354882b,vinumqa_0048,Tỷ lệ phần trăm thay đổi trong các khoản bổ sung tính vào chi phí từ năm 2011 đến 2012 trong phần dự phòng các khoản phải thu khó đòi là bao nhiêu?,0.41429,41.4%,ok,0,0,0,0,22.09264029499991,,,
+4a3193d58318307d,vinumqa_0049,Phần nào trong tổng số nhân viên toàn thời gian của các hoạt động chính là tiếp viên hàng không?,0.24335,24700,ok,0,0,0,0,25.53805199899989,,,
+2a639c07e211bb8e,vinumqa_0050,tính tỷ lệ lợi nhuận trước dự phòng trên tổng thu nhập dự kiến cho năm 2021.,0.65206,"""""",ok,0,0,0,0,18.37341694900033,,,

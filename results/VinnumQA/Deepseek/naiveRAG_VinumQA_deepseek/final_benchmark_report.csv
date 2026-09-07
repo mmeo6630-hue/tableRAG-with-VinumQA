@@ -1,0 +1,2 @@
+Method,Dataset,LLM judge,Exact match,Total Latency,Avg. Latency / Step
+NaiveRAG (deepseek/deepseek-v4-flash-free),VinumQA (Vietnamese),46%,34%,5.32321,5.32321
