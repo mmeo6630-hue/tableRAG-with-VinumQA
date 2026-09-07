@@ -1,0 +1,306 @@
+Question_ID,Question,Gold_Answer,Model_Answer,Exact_Match,Status,Total_Latency_Sec,Input_Tokens,Output_Tokens
+00153f694413a536,What is the middle name of the player with the second most National Football League career rushing yards ?,Jerry,Not available in the provided context.,0,SUCCESS,7.8954,1362,206
+0035c791af3d9666,The driver who finished in position 4 in the 2004 United States Grand Prix was of what nationality ?,British,British,1,SUCCESS,5.462,1000,1
+01a0c3f14151b9a1,What year does Orson Scott Card 's 1986 novel take place ?,5270,5270,1,SUCCESS,4.5225,768,2
+02bcd829bff0be92,"For the army that conflicted with the `` lashkars '' , what year did its soldier die ?",3 November 1947,1962,0,SUCCESS,4.2686,768,2
+03e960bb373a4c7b,"What team drafted this player from Salisbury , North Carolina ?",New Orleans Pelicans,New Orleans Pelicans,1,SUCCESS,4.0884,785,4
+03f0b21f92ee77b2,What is the state represented by the teen whose home town is one of the gateways to the Great Smoky Mountains National Park ?,Tennessee,Tennessee,1,SUCCESS,4.4715,791,2
+044096c45b19980e,The college that opened in 1981 is located on how many acres of land ?,47 acres,47 acres,1,SUCCESS,6.7161,763,46
+04dcf2b84f684bc6,What was the format of an event also known as GP that took place in a season which was fifth season ?,Team Limited,Extended,0,SUCCESS,7.2377,945,1
+05a9815876b1491b,"What is the country for the airport that it at an elevation of 5 m ( 16 ft ) , therefore at risk of serious flooding ?",Belize City,Honduras,0,SUCCESS,4.6989,1053,3
+05fcda927996b968,What suburb is the stadium for the bulls located in ?,Arcadia,Arcadia,1,SUCCESS,4.196,978,3
+097b1c1bce5531e7,where are located the terminals of the airport of the city the second most populous in Canada ?,The airport terminals are located entirely in the suburb of Dorval,The context does not specify.,0,SUCCESS,52.6752,937,4651
+09828a9a107af8a4,"Which championship occurred first ? Was it one which was originally raced in 1927 and won by Joe Davis , or the one which Judd Trump often wins ?",German Open,The World Snooker Championship occurred first.,0,SUCCESS,4.8043,927,9
+09e76b80ad483e02,How many square kilometers are in the county where Bangor is located ?,"2,448 km2","2,448",0,SUCCESS,5.0415,911,54
+0bf187132a85c932,The game released on 2011-05-17 developed by TopWare Interactive was subject to a lawsuit by what company ?,Interplay Entertainment,Interplay Entertainment,1,SUCCESS,4.593,743,3
+0c944b369522fcc5,At what Bay does the route end whose highway was first established in early 1922 between Highway 2 in Whitby and Lindsay ?,Georgian,Sturgeon Bay,0,SUCCESS,12.7904,1036,862
+0cb0ab2f72ef5e91,Which noble families are referenced by the title of the movie parodied by The Gore of the Roses ?,Houses of York and Lancaster,The War of the Roses.,0,SUCCESS,4.3541,889,6
+0ccec805fd3393f1,Which author of the Kamakura period treasures died more recently ?,Fujiwara no Teika,Fujiwara no Teika,1,SUCCESS,4.6933,834,7
+0d154cd21fb97011,How many MVP where born after 1970 and venue was Madison Square Garden ?,6,Cannot be determined from the provided context.,0,SUCCESS,6.0593,990,179
+0db3fd75f85b7890,Which publication 's ranking put the person who finished the qualifying round of the French Grand Prix in 1:13.625 in 2001 at 30th out of all F1 drivers ?,Times Online 's,Times Online,0,SUCCESS,5.7078,932,2
+0f6ee27f144efa9d,What type of disaster hit the state whose name originates from the Ojibwe word mishigamaa ?,Wildfire,Flood,0,SUCCESS,4.3824,841,2
+0f774ac4950905c4,Which of the athletes from the country whose capital is Rabat was sanctioned for using a medication which is derived from DHT ?,Mouhcine Cheaouri,Mouhcine Cheaouri,1,SUCCESS,4.7314,859,7
+0fb72fb371fb412a,Whose violation was the first one to occur in the 21st century ?,Tony Dees,Vadim Devyatovskiy,0,SUCCESS,5.1067,828,7
+0fc111b7dae010c3,Which sects first settled the city which houses Rutgers University ?,Quakers and Baptists,Quakers and Baptists.,1,SUCCESS,4.9844,804,6
+10b2ec11023e43fd,What is the 2010 Census of the Core-based statistical area that is home to more than 400 major corporate headquarter ?,"9,461,105","6,426,214",0,SUCCESS,9.5097,995,456
+10c33f7afdcf8732,What is the nationality of the driver that finished second at the 2001 Brazilian Grand Prix ?,German,German,1,SUCCESS,5.179,1016,1
+115e479314168a9d,What were the core subjects of the university attended by Fred Felber at the time of its establishment ?,liberal arts,North Dakota.,0,SUCCESS,4.5396,762,3
+145825860ef076ea,Who is the director of the most recent film to feature one of Shende 's songs ?,Gautham,Vinay Shukla,0,SUCCESS,17.3971,877,1275
+14cf3e3f6de12822,What is the population of the location that contains a tree on the list that is a registered natural monument of the country ?,over one million people,The context does not provide population data for any location.,0,SUCCESS,4.5517,817,11
+163108f5737380d0,What year did the university attended by Kentwan Balmer first start ending the practice of racially segregating students ?,1951,1951,1,SUCCESS,4.7819,803,2
+174f991d704c85a5,What historic place is located in a city where U.S . Highways 2 and 169 are two of the main roads ?,Frank Gran Farmstead,Bigfork Village Hall,0,SUCCESS,4.7536,695,4
+175db44dc00c3811,"What is the capacity in MW of the wind farm that was built in three phases , with the first coming online in 2002 , the second in 2009 and the third in 2019 ?",407,160 MW,0,SUCCESS,4.7122,935,2
+17b20c1ca147dd86,How many Democrats were born in the month of June ?,3,Cannot be determined from the provided context.,0,SUCCESS,6.0097,1004,148
+18221d53742114c3,Who sponsors the distribution that is in-progress and using binary blobs ?,Red Hat Inc.,Free Software Foundation,0,SUCCESS,4.5371,527,3
+1924aad25d32e0aa,"What is the release date of the game that features a number of new features and improvements to its predecessor , including multiplayer options ?",2010-09-28,"The provided context does not contain information about a game with ""a number of new features and improvements to its predecessor, including multiplayer options.""",0,SUCCESS,5.1039,859,27
+1ac08e09d0fd7af9,What is the nickname of the driver who finished with a time of 1:23.271 in the qualifying round of the 1998 British Grand Prix ?,The Flying Finn,The Flying Finn,1,SUCCESS,5.822,1061,3
+1ac9822f92cc06aa,How many boroughs does the 10th most populated metro area have ?,Seven,Not provided in the context.,0,SUCCESS,6.0345,1060,144
+1ae4ed2018014fae,How many employees work for the company that is located in a country where there are ten provinces and three territories ?,"6,000","10,000",0,SUCCESS,6.2584,740,201
+1b7e153ef76e90e2,The squash player that won the 2019 CIB Egyptian Tour had previously won the Under-15 British Junior Open Squash title the same year the Under-19 title winner was a player that would go on to win a gold medal in what games ?,2019 Pan American Games,2019 Pan American Games,1,SUCCESS,4.902,932,5
+1bbddc275723dbf6,What was the major education bill of the president who appointed Gale Norton ?,No Child Left Behind Act,No Child Left Behind Act,1,SUCCESS,4.3695,698,5
+1bcc36801ece09e6,Along what river is the town that the route which was redesignated as Leeds and Grenville County Road 32 goes to located ?,Saint Lawrence,Saint Lawrence River,0,SUCCESS,4.6105,606,3
+1c95b268b15c5687,What people founded the place in Elmore ?,French,The context does not specify who founded the place in Elmore County.,0,SUCCESS,5.9589,334,14
+1e911a9dd9d2677f,what country submitted a not nominated film that had a director who born 1944 ?,Cuba,Algeria,0,SUCCESS,5.6777,832,3
+1f7e1ba710ad54f2,For whom was this neighborhood constructed in the 18th century located in the district whose name means old city in Catalan ?,the Ribera neighborhood,Residents of the Ribera neighborhood.,0,SUCCESS,4.4101,846,9
+20dc9f942c897dc4,How many kilograms does the player recruited from the club nicknamed The Double Blues weigh ?,88,88 kilograms,0,SUCCESS,5.2023,985,70
+22611a9d70bd5177,Which player attended the school with athletic teams called Rainbow Warriors and Rainbow Wāhine ?,Bill Blanchette,Bill Blanchette,1,SUCCESS,4.9519,617,4
+226e3e5cd7ec9f29,What is the state population rank of the Bay Area city which contains the Charles M. Schulz Museum and Research Center ?,28th,28th most populous city in California.,0,SUCCESS,4.6529,786,8
+237f9bbf883540da,"What is the name of the route that goes via the location whose population was 9,449 at the 2010 census ?",CR 202,North Lincoln Road,0,SUCCESS,4.9198,687,3
+248995baa9d16235,What is the song title of the artist who is known for his participation in the Eurovision Song Contests of 1967 and 1969 ?,Ik heb zorgen,Ik heb zorgen,1,SUCCESS,4.6814,747,3
+24ea477679de12dd,What is the month of birth of the player with the fourth most National Football League career rushing yards ?,July,Unknown,0,SUCCESS,6.037,1363,122
+262972a04afab0e9,What is the position of the driver that earned the CART Championship in 2002 ?,15,10,0,SUCCESS,4.9418,779,1
+27af70f4003ec1a7,"What is the shape of the parasite that can affect the human eye , brain , and skin and is often transmitted by thin lens placed directly on the surface of the eye ?",Amoeboid,Acanthamoeba spp.,0,SUCCESS,5.0547,730,7
+291549462c89ca02,An author with 19 names penned a parody of a gameshow developed for the U.S. by Michael Davies that was originally hosted in American by what person ?,by Regis Philbin,Regis Philbin,0,SUCCESS,4.6929,739,4
+2a61bfaecf11277a,"Where was the organization , who won the third staging of the championship , founded ?",Hayes ' Hotel,"The organization was the Gaelic Athletic Association, founded in Thurles, County Tipperary.",0,SUCCESS,5.5862,669,18
+2a696a65b9c1023b,How many times did the musicians with the song If You Do n't Know Me by Now make the top ten singles of the United Kingdom ?,ten,Not enough information.,0,SUCCESS,7.0576,851,204
+2a6c741b24e33e1b,Who is the older brother of the driver with a lap time of 1:33.297 ?,Michael Schumacher,Michael Schumacher,1,SUCCESS,5.3819,1049,4
+2a7b07f9bb25ec05,What was the former name of the most recent landmark ?,Chalk Cave and Baird Cave,Not provided in the context.,0,SUCCESS,77.6362,816,7416
+2b0d72fe39e8be37,"What kind of syenite makes up the mountaintop in Brazil 2,798 meters above sea level ?",nepheline,nepheline syenite,0,SUCCESS,4.6403,944,7
+2c9d29d60efd9722,what is the age the player born 28 October 1973 ?,46,46,1,SUCCESS,4.3391,772,1
+2d9eb0c86f3deaf9,What is the higher engine make/capacity value of a vehicle made in the largest city in Japan 's Chūbu region ?,354 cc,354 cc,1,SUCCESS,5.3505,1116,93
+2edb791a4ecfa7b8,To what team did the athlete go who was from the team that was founded on 30 November 1896 as a sports club ?,Internazionale,Arsenal,0,SUCCESS,4.1936,788,2
+2f0b19f81b97eb5a,Which ship had the cannon with a caliber of less than 412.8 but more than 406 millimeters which was salvaged in the seventies ?,Mutsu,Not enough information.,0,SUCCESS,10.8491,996,617
+2f319646582b93ba,What was the order of the religious people who lived at the building that was part of the largest medieval hospital in Denmark which King Christian I turned into an Augustinian priory 1497 ?,Order of the Holy Ghost,Order of the Holy Ghost,1,SUCCESS,7.6805,841,382
+2f82321b166609ee,What is the Chinese title of the film whose director was born on 7 March 1926 ?,梁山伯与祝英台,,0,EMPTY_PREDICTION,24.3337,0,0
+2f86a9a113cadad1,How many total championship points did the constructor win whose driver won the 2008 FIA GT Championship ?,38,,0,TIMEOUT,0.0,0,0
+311756ad4d081893,"During the AFL 2013 draft , the 4th pick drafted by Western Bulldogs was born in what month ?",November,November,1,SUCCESS,5.0873,699,1
+3177bdd8b935e45f,"What highway passes by the airport in Canada that had 168,889 airplanes move in a year ?",Highway 2,Highway 2.,1,SUCCESS,4.824,1094,5
+31fe5d56fd5bd58b,What kind of dam is the tallest dam in Europe ?,Gravity,Concrete gravity dam,0,SUCCESS,4.6598,967,4
+335a4f26c9cb0ad1,What city contains the home stadium of the winner of the 1993 John Hancock Bowl ?,"Norman , Oklahoma",Oklahoma,0,SUCCESS,4.6795,909,2
+3466895fac665976,The owner of Dufferin Communications is a radio broadcasting company that operates an AM station that is the only what in Manitoba ?,multilingual radio station,The only French-language radio station in Manitoba.,0,SUCCESS,5.1446,585,9
+34c1bff132375563,"How long , in kilometers , is the road that is the end of route CR 10A ?",522.59 km,15.87 km,0,SUCCESS,5.3618,2098,11282
+35e4463ff9685e93,What year did the empire of Portugal establish the city of Santos Dumont Airport ?,1565,The provided context does not contain information about the empire of Portugal establishing the city of Santos Dumont Airport.,0,SUCCESS,4.9706,886,21
+377926fc8001a4af,What is the team for the racer who was brought in to replace fellow Italian Jarno Trulli ?,Renault,Renault,1,SUCCESS,5.1452,680,2
+37c8afff3fd003de,What island do the residents near the Lucerne shipwreck almost exclusively live on ?,Madeline Island,Madeline Island,1,SUCCESS,5.8511,844,96
+3832ebd26bede85f,"At the 2010 census , what was the population of the town that is the end of route CR 7 ?","1,163",The context does not provide information about route CR 7 or its endpoint.,0,SUCCESS,4.9948,719,15
+3844d089f5469ade,"What Constructor made the vehicle for the Driver who overall won 32 Formula One races , 22 pole positions and 1,899 points from 311 starts ?",Renault,McLaren - Mercedes,0,SUCCESS,5.1122,1080,5
+38c022dc75b42938,"Of the teams that did not play in the top division last season , the oldest one plays out of a stadium that was originally built to host what event ?",1999 Summer Universiade in Palma,1929 Barcelona International Exposition,0,SUCCESS,4.8072,947,5
+3b717fdb94e56f60,"What kind of figure was the namesake of the stadium that has the same capacity as the stadium opened in 1981 , but is located in the city known as `` the city under Marko 's Towers '' ?",Revolutionary,Revolutionary figure.,0,SUCCESS,4.9639,1078,5
+3be79807167fc64a,"Which school is featured in the Netflix sport series that debuted on July 29 , 2016 ?",East Mississippi Community College,East Mississippi Community College,1,SUCCESS,4.9326,651,4
+3dc3aaaa06cbfc49,What is the total winning percentage for the driver who came in first place ?,46.15%,46.15%,1,SUCCESS,6.1397,1103,96
+3e2e553a85a4f7d8,What is the capacity in MWs of the farm belonging to the company based in Edmonton ?,149.4,300,0,SUCCESS,5.0684,652,1
+3e4e61e1b9d43759,How many million square kilometres is the country who had a player whose 2012-13 club 's arena is known locally as the Thunderdome ?,9.98,Cannot be determined from the context.,0,SUCCESS,12.3912,816,794
+3f6961cfd737d696,What is the city of birth of the number 4 draft pick of the 2001 XFL Draft ?,Louisville,Louisville,1,SUCCESS,5.0169,793,2
+417e8f49a367e1cf,What is the completion year for the church who 's ruins are currently being researched by members of the Jamestown Rediscovery project ?,1647,1647,1,SUCCESS,5.3982,725,2
+4190e99b1fc0cd9c,Which year did the person who completed the qualifying race of the Canadian Grand Prix of 1999 in 1:19.440 first get onto the podium ?,1995,1998,0,SUCCESS,5.2923,1247,2
+4258f5d5f0b610ec,What branch is the youngest chief of defence from ?,Army,Air Force,0,SUCCESS,4.452,1120,2
+4373828a6890f3db,What age did the driver who finished at position 6 at the 2005 European Grand Prix qualifier start go-karting ?,three,8,0,SUCCESS,4.9577,1005,1
+4415fe2496ce4dc0,For how long was the husband of the actress that made her film debut in Last Action Hero ranked world No . 1 ?,286 weeks,286 weeks.,1,SUCCESS,4.525,933,3
+45afa1768b409df9,What month was the driver with a gap of +3.926 born ?,July,November,0,SUCCESS,5.2719,1049,1
+46a7a4b68a424075,Which publication designated the person who created the artwork King at Rest as renown in the northwestern region of the US ?,Willamette Week,Willamette Week,1,SUCCESS,5.4842,818,4
+4b12f17766fafc1d,What is the national title of the film whose production country is a unitary parliamentary democracy and constitutional monarchy ?,Dogville,The national title is **La Pianiste**.,0,SUCCESS,4.7298,905,9
+4c18213568508e6e,What Trail has a section in the town that starts the highway that ends in a town on the eastern shore of Lake Huron at the mouth of the Maitland River ?,Bruce,Algonquin Trail,0,SUCCESS,4.5656,891,4
+4c267931c04686ac,"Which person had the most laps led from a winning manufacturer that had two men start the company on November 3 , 1911 with a pole position guy that had a three time champion of the Nascar Gander RV & Outdoors Truck Series ?",James Buescher,James Buescher,1,SUCCESS,10.4027,932,632
+4d6bfbc7abb0308f,In which league was the player to debut against the Reggae Boyz the highest scorer ?,K League 1,K League 1,1,SUCCESS,6.4872,982,119
+5146898ab8595346,What is the area of the small old center of the city that Big Brother participant Ben Duncan is from ?,1.12 square miles,The context does not provide information about the area of the small old center of the city that Ben Duncan is from.,0,SUCCESS,5.0052,877,23
+5163fdb238a060bd,In what month did the season conclude the year that Owen Turtenwald won the Grand Prix in Nice ?,August,December,0,SUCCESS,5.3954,864,1
+516f178e5a7c6503,What was the month of birth of the number 3 ranked competitor in the 1997 World Junior Figure Skating Championships ?,November,June,0,SUCCESS,4.9623,1051,1
+51994b0c74870590,What is the rank of the 555 meter South Korean building in the world in terms of height ?,5th,5th,1,SUCCESS,4.9643,982,2
+51a8ab50c42fbc7e,"On which date was this spacecraft decommissioned , which was built to explore the C-type asteroid composed of primitive carbonaceous material ?",1 November 2018,12 December 2019,0,SUCCESS,5.0716,906,5
+51b148d6265b2433,In what year was the lyricist of `` Jis dil mein basa tha pyaar tera '' born ?,1924,1953,0,SUCCESS,4.8856,1028,2
+51c7cb7b9b086651,"When was the fastest driver for McLaren , Mercedes born ?",28 September 1968,1968-09-28,0,SUCCESS,5.7529,997,6
+52940168b8d4e009,What is the name of the racecourse whose country was first inhabited by modern humans during the Upper Palaeolithic period ?,Bibury Racecourse,Cannot be determined from the provided context.,0,SUCCESS,5.6339,834,113
+53e485646449d222,How many undergrad majors are in the university attended by Henry Ellard ?,60,Cannot be determined from the given context.,0,SUCCESS,6.3708,842,175
+541da06255b52db6,What is the league whose city forms part of the Pearl River Delta megalopolis ?,China Futsal Super League,Chinese_Volleyball_League,0,SUCCESS,4.7667,817,6
+557d7c22208b7604,Where is this Publisher located whose Platform only has one entry on the list ?,Kyoto,"Novato, California.",0,SUCCESS,4.6717,729,5
+55fb4e74d50b3393,Which concrete arch dam is located in the country home to the two global cities and economic centres of Zürich and Geneva ?,Mauvoisin Dam,Mauvoisin Dam,1,SUCCESS,6.314,1064,5
+560e6ba9877d22a6,"For the latest member to serve , what were some of the things her party opposed ?",the abolition of slavery,"Based on the context, the latest member to serve is Marisara Pont Marchese, whose party is PPD with Democrat affiliation. The context does not provide information about what the Democrat party opposed.",0,SUCCESS,7.0888,925,41
+5728bdcb0bedc535,What is the name of the airport in the city that is the most populous urban area in Central America ?,La Aurora International Airport,La Aurora International Airport,1,SUCCESS,10.5932,1124,566
+58cc2d00ae0f3100,Near what pass is the volcano that last erupted in the Holocene era ?,Santiam Pass,Santiam Pass,1,SUCCESS,5.9326,840,3
+5914afe6f78c7c18,"What is the elevation of this park located in the district of 131,452 people in 2013 ?",125 metres,The provided context does not include elevation information for any park.,0,SUCCESS,5.2832,1034,12
+59299b0b5cb88d8c,What is the home city of competitor number 8 's team ?,Oslo,Vålerenga,0,SUCCESS,4.8747,607,4
+5a6bb9bfd379f8a7,What was the name of the prisoner who escape from Rio Piedras State Penitentiary in Puerto Rico ?,William Lane,William Lane,1,SUCCESS,4.7065,643,2
+5b75b20de499cd08,In which year was the seat represented by the son of John Rempston split into two ?,1832,1832,1,SUCCESS,4.4315,825,2
+5bea2164b7d2c337,What was the last year of the athletic program at the post-secondary school attended by Junior Galette ?,2015,2015,1,SUCCESS,4.9995,933,2
+5c14c28e4727ac7d,Who designed a house in the county seat of Anne Arundel County ?,William Buckland,William Buckland,1,SUCCESS,5.3087,772,3
+5c193dcf3d1f9440,What city was the trainer of the 1967 American Horse of the Year born ?,Centreville,Frank Y. Whiteley Jr.,0,SUCCESS,4.9181,903,7
+5cdc8869a06434f6,"Located in Indianapolis , how many Grands Prix did this season consisted of where the event type usually takes place in the summer or autumn ?",Twenty,Cannot be determined from the provided context.,0,SUCCESS,20.0742,698,1551
+5cf5625f21bb3148,How many years is the claimed age of the city where 103+ were killed by a vehicle bomb on 27th of January ?,"3,500",Cannot be determined from the context.,0,SUCCESS,7.4426,850,244
+5de3aed5acae413d,How many clinical departments are contained in the post-secondary school attended by Charles Mann ?,16,16,1,SUCCESS,5.9017,747,90
+5ebf8b11226575c3,How many seasons did the driver who finished 8th in the 2004 Chinese Grand Prix qualifying round drive in Formula One ?,ten,Cannot be determined from the provided context.,0,SUCCESS,8.903,1263,388
+5fd71c286251aec1,What is the single/pack of the artist who was born on 3 December 1948 ?,Guitar Hero Track Pack 1,Guitar Hero Track Pack 1,1,SUCCESS,4.2897,783,8
+6093d7216eade2ca,"Out of all top scorers , which one is the oldest ?",Per Kristoffersen,No information about the age of top scorers is provided in the context.,0,SUCCESS,5.0197,983,15
+63f5fa13c6c34e1d,"What was the time of the only driver in history to win seven Formula One World Championships , five of which he won consecutively ?",1:31.075,1:31.075,1,SUCCESS,5.0906,1026,5
+646b223b1a2b2392,The route that goes through Treadwell Road ends at a town with what 2010 population ?,"2,411","2,267",0,SUCCESS,4.8556,440,3
+65b69d46bd5b9ab4,What temperature scale was invented in the city that was the capital of Sweden from 1273 to 1436 ?,Celsius,No information about temperature scales is provided in the context.,0,SUCCESS,5.0743,776,11
+66060efe9b674c93,What is the area in km squared of the country that has members of the Baka ethnic group ?,"79,343",The context does not provide the area in km² of any country.,0,SUCCESS,5.6781,737,14
+680545cc25b01832,"What is the name of the bridge whose county 's population was 281,674 in 2010 ?",Androscoggin Swinging Bridge,Androscoggin Swinging Bridge,1,SUCCESS,5.3061,1236,7
+687930dc57e6d7b4,How many Formula One races has the person who finished the qualifying race of the Canadian Grand Prix of 1999 in 1:20.378 obtained a win in ?,three,Cannot be determined from the provided context.,0,SUCCESS,14.5361,1220,916
+6a1fab76db672891,What is the seating capacity of the stadium that is built on the site of the former Lansdowne Road Stadium ?,"51,700","51,700",1,SUCCESS,4.7972,953,3
+6a559d012841253a,What division was the man in the Air Force in 1943 assigned to shortly before the US joined WWII ?,Air War Plans,The provided context does not specify what division the man in the Air Force in 1943 was assigned to shortly before the US joined WWII.,0,SUCCESS,4.9396,725,28
+6be96bd8963d8ea9,In 1998 the Champion team was a part of what division ?,Atlantic Coast Conference of NCAA Division I soccer,First Division,0,SUCCESS,4.737,833,2
+70d0beb6c2cb07bc,What is the capacity of the stadium that was completed in March 1999 at a cost of A $ 690 million ?,"83,500","110,000",0,SUCCESS,4.4048,760,3
+719ed89f043d9b8f,When did the politician beaten by the current Minister of Mines and Energy resign as president of his party ?,2016,No answer can be provided based on the given context.,0,SUCCESS,4.6895,902,11
+72192864e58282fe,What city hosted the World Championship in the season that Shouta Yasooka ranked 5th twice ?,Chiba,Paris,0,SUCCESS,4.5219,809,1
+72b239192ab22f7f,"Which September 9 , 2000 main event person is youngest ?",Justice Pain,Drake Younger,0,SUCCESS,5.0165,633,3
+736409ec408ae21d,What is the venue of the event whose host gained worldwide attention when his single `` When You Say Nothing at All '' was featured in the film Notting Hill ?,Rotterdam Ahoy,Brandenburg Gate,0,SUCCESS,4.41,779,3
+74c78bc9ffb4fd39,What is the birthday of Ford 's oldest winning driver ?,"October 28 , 1944","August 8, 1964",0,SUCCESS,4.5601,729,7
+750d6223ab0812bc,What is the scheduling number of the site where the remains of a Romano-Celtic Temple can be found ?,1008211,No answer can be provided from the given context.,0,SUCCESS,5.1308,467,10
+756ad73447cf407c,What is the nationality of the position 1 finisher of the 2000 San Marino Grand Prix ?,Finnish,Finnish,1,SUCCESS,5.56,1066,2
+76c3aa9c657f8e17,"What album was released in 1967 by American sunshine pop band of the 1960s that was a part of a label headquartered in Los Angeles , California ?",Feelin ' Groovy,Feelin' Groovy,1,SUCCESS,4.6573,625,5
+774f76bf3d767ead,Which conflict caused the second place team of Campeonato Paulista in 1908 to not mention its German roots ?,World War II,World War II,1,SUCCESS,5.0282,799,3
+7a2b46741c809315,Which team did the driver that finished fastest in the qualifying round of the 2005 British Grand Prix make his Formula One debut with ?,Minardi,Renault,0,SUCCESS,5.1655,1221,2
+7a39d46c0a900083,Which city is located nearby this elaborate tomb in this country bordered by Romania to the north ?,"Kazanlak , Bulgaria",Silbury Hill and Avebury stone circle,0,SUCCESS,4.8198,836,8
+7a831c629681be59,What film was directed by the director born on 28 November 1933 ?,The Upthrown Stone,Monsieur Hawarden,0,SUCCESS,5.392,659,6
+7acbf7a7643ef2ba,The team that plays in the arena with the sixteenth-highest seating capacity were originally known by what name ?,Minnesota North Stars,,0,TIMEOUT,0.0,0,0
+7b9ff122ad967ced,What the original name of the team that won the FAI Cup in the 1925 - 26 season when they were founded ?,Fords F.C,Fordsons,0,SUCCESS,4.4949,941,3
+7c05600ff66b731b,How many trees are approximately growing in the city which contains City Road Cemetery ?,4.5 million,4.5 million trees,0,SUCCESS,4.7138,716,82
+7c2df9c6b7089ea0,Which university is the 1989 Most Outstanding Player of the America East Conference Men 's Basketball Tournament head basketball coach ?,New Jersey City University,New Jersey City University,1,SUCCESS,9.0878,788,520
+7dc78b5327210208,The home stadium of the New York Jets is located how many miles west of New York City ?,8,8 miles,0,SUCCESS,4.8953,759,52
+7fd3c960de2c984d,"Who is the oldest Minardi , Ford driver ?",Luca Badoer,Luca Badoer,1,SUCCESS,4.7602,1101,5
+808d8b25e1cfc5be,What is the full name of the oldest suspended athlete that violated rules in 2010 or later ?,Ahmed Ibrahim Baday,Roberto Barbi,0,SUCCESS,4.8476,1981,11740
+80f12bc33c363ba0,How many years did the person who finished the qualifying round of the French Grand Prix of 1952 in 2:21.6 drive in Formula One ?,fourteen,Cannot be determined from the provided context.,0,SUCCESS,9.8359,1359,435
+8189497c5ab37fe7,Which bridge spans the river that is the lower 12 miles ( 19 km ) of Washington state 's Green River ?,First Avenue South Bridge,First Avenue South Bridge,1,SUCCESS,4.2941,608,4
+81c7798c0af5690a,There 's a good chance Santiago J. Erevia is a graduate of what ?,US Army Air Assault School,There is no information in the context about Santiago J. Erevia's education.,0,SUCCESS,4.649,870,16
+83446304518e3202,What are fans of the football club with 2016 revenue less than 169.3 but more than 164.8 called ?,Evertonians or Blues,Not stated in the context.,0,SUCCESS,11.9973,976,713
+847041d4fa9a40d4,How many games did the World Basketball Association team win during their only season of existence ?,9,Cannot be determined from the provided context.,0,SUCCESS,5.8693,765,148
+86735444f12f105b,Where is the channel that broadcasts multiple languages located ?,"Winnipeg , Manitoba","Vancouver, British Columbia",0,SUCCESS,4.4377,731,5
+87a716ffeee7c9f6,How many times was the player nicknamed The Georgia Peach runner-up ?,four,2,0,SUCCESS,5.8909,974,140
+8935806f630573ac,Which former Most Outstanding Player was a first round draft selection of the Portland Trailblazers in 1978 ?,Ron Brewer,Ron Brewer,1,SUCCESS,5.3721,986,43
+89e1c7f63ef47776,What is the length in km of the county route that cross the eastern part of the american state of New York ?,2.11,152.55 km,0,SUCCESS,4.6298,809,4
+8a92baac4500c54b,What location was the twelfth season of the Magic 's event take place that was the main event of a minimum three-day mini-convention ?,San Francisco,Amsterdam (Netherlands),0,SUCCESS,4.4384,747,6
+8af7661b0cc32719,What is the area of the Seoul park located in the same district that is home to Konkuk University and Sejong Universityr ?,"23,450㎡","593,036㎡",0,SUCCESS,4.9778,1174,4
+8b4f6bae5cc5c186,What was the establishment year of the university attended by Willie Adams ?,1888,1965,0,SUCCESS,4.8623,737,2
+8bd1fff36d9dfba0,Which 1964 player is the oldest ?,Syl Apps,"Syl Apps, Jr.",0,SUCCESS,5.08,888,6
+8d4ce7921f557240,"What color is the mascot of the club who 's player is younger brother of former Collingwood and Fremantle player , Chris Tarrant ?",grey,purple and white,0,SUCCESS,3.8682,654,4
+8dcffe4b10c32367,Who is the brother of the winning driver of the pole position who drives the No . 14 Ford Mustang ?,Kurt Busch,Darrell Waltrip,0,SUCCESS,4.9345,749,4
+8e47e4ffcd370d4c,How many Formula One events did the person who finished the qualifying round of the San Marino Grand Prix of 1984 right behind Manfred Winkelhock compete in ?,143,Cannot be determined from the provided context.,0,SUCCESS,9.6728,1009,425
+8e618c2e2b25dda7,"How many players that were born in 1990 and were acquired in 2012 , were defencemen ( D ) ?",2,Not enough information.,0,SUCCESS,5.6999,521,105
+8ffb2f5bdd6a8fef,How many seasons included the opponent that plays its home games at Madison Square Garden in the borough of Manhattan ?,8,The context does not specify the number of seasons.,0,SUCCESS,8.2453,833,279
+9066be7343839275,What racist policy did the 1881 Major League Baseball batting champion support ?,segregation,I cannot answer this question based on the provided context.,0,SUCCESS,5.0583,952,11
+94c2eb5d1e047722,Which peninsula contains the passage grave first built in France in 4850 BC ?,Kernéléhen,Kernéléhen peninsula,0,SUCCESS,4.4101,761,5
+9578b7b3e4105ec7,What is the length ( km ) of the route whose via location is named after a Revolutionary War hero ?,2.09,5.55,0,SUCCESS,5.0993,803,3
+959fcd61e3a5425f,What is the full name of the politician that has served the most recently ?,Angela Dawn Craig,,0,TIMEOUT,0.0,0,0
+96ad5e8f36eca29e,"Regarding the routes that start at the county named in honor of an U.S. Revolution War general , which one of them has more than 3 miles of extension ?",CR 132,CR 132,1,SUCCESS,6.1593,1013,199
+97370d1641e22deb,What is the best achievement the racer who finished just behind Mark Webber at the San Marino Grand Prix of 2004 has gotten in the drivers ' championship of the world ?,sixth,Third.,0,SUCCESS,4.425,1041,2
+9748c0eb26e9d46e,"The senator representing a district that includes parts of Atoka , Choctaw , LeFlore , McCurtain and Pushmataha Counties , hails from a hometown that was named after a town in what state ?",Nebraska,Nebraska,1,SUCCESS,4.6802,679,3
+977d882b1b56db67,This athlete was born in Allahabad in 1990 and won a bronze medal at the games ?,Ashish Kumar,Ashish Kumar,1,SUCCESS,5.0121,785,3
+985c19aa4f67b9c4,What is the full name of the earliest player of the year ?,Mário Rui Correia Tomás,Djalmir Vieira de Andrade,0,SUCCESS,4.9366,904,8
+99cc36248aa4887d,"What is the net worth of the Governor of the state that was admitted to the Union on June 20 , 1863 ?",$ 1.59 billion,$ 3.5 billion,0,SUCCESS,4.2075,864,6
+9a673b041cc92df3,what is the event of the competition that lasted from 6/22-6/25 ?,Triple Jump,Triple jump,1,SUCCESS,4.4593,716,3
+9b030f07965328b8,"What is the location whose winner was born on September 17 , 1978 ?",Georgia,Arizona,0,SUCCESS,4.4939,978,2
+9c750a1624468d83,How many municipalities are located in the state that transmits XETLAXHPBSD ?,570,570,1,SUCCESS,24.825,953,1875
+9d58063587dafa42,When was the person with the Time of 1:40.240 born ?,1 January 1981,"Zsolt Baumgartner was born on January 1, 1981.",0,SUCCESS,5.4835,1053,16
+9d7c8d91e2c9877d,"This politician from a Ohio city with a population of 10,546 , served as a Representative for what district before becoming an Ohio Senator ?",7th District,21st district,0,SUCCESS,4.7531,997,3
+9db23c1ffce3839a,What was the final position of the skater from the country occupied by the Soviet Union during World War II in the free skating segment ?,17,10,0,SUCCESS,4.7701,1186,1
+a0d295006f3b2528,What is the year of the song title whose artist has sold over 19 million albums worldwide ?,2000,2006,0,SUCCESS,4.1956,758,2
+a269b85316c926cf,What genre was the earliest album ?,progressive rock,Rock,0,SUCCESS,4.6083,729,1
+a2b37f8494caa840,"What controls minds in the game released on October 25 , 2005 ?",parasite,Psychonauts.,0,SUCCESS,4.9959,772,4
+a3358c79d88cdad3,In what year was the university in the 196th highest population city in the US formally adopted by the state ?,1901,,0,TIMEOUT,0.0,0,0
+a421f6f9961188bf,Who won the championship in the year where the Stars made the playoffs ?,Montreal Canadiens,1999,0,SUCCESS,4.7033,872,2
+a50ed1ae1f1bbb08,Who are allowed in the event that was held at Yokohama among other places and was located at San Francisco ?,All players,"The event held at Yokohama and San Francisco was the World Championship, and the top 16 pro players selected due to various criteria were invited to the Players Championship (which was later renamed World Championship).",0,SUCCESS,4.6538,797,41
+a53ee3834685a3b3,What was the name of the person who was attacked in the biggest city that is the largest city in the United States on the US-Canadian border ?,Elizabeth Rivera,Tyler Trammell-Huston,0,SUCCESS,33.0181,882,2894
+a548cf7f4091c546,What was the literal English translation of the name of the currency used until 2009 in the country where the capital and largest city is Bratislava ?,Slovak crown,Slovak crown,1,SUCCESS,5.5187,1164,51
+a5cf7ceed7e24ed8,What position was the oldest driver in 2010 Masters of Formula 3 race ?,18,14,0,SUCCESS,5.0042,1029,1
+a622f85707546edf,"Of the athletes from the United States , who was born later ?",Michael Weiss,Michael Weiss,1,SUCCESS,5.2681,1984,14309
+a65f00c9ed38e71b,Which river borders the village that is home to the Ratcliffe-on-Soar Power Station ?,River Soar,River Trent,0,SUCCESS,4.4627,696,2
+a6d1c26b6533da69,What is the Location for the organization that is also known as `` DelPark '' ?,Stanton,Stanton,1,SUCCESS,4.468,666,2
+a9674eae740bb4a0,How many people established the football club whose 2018 revenue was less than 355.6 but more than 272.5 ?,eighteen,Cannot be determined from the provided context.,0,SUCCESS,11.0981,1086,595
+aa125e4f75f74629,What is the population of the city that was the capital of Ireland from 1642 to 1651 ?,"26,512",Dublin,0,SUCCESS,4.3005,879,2
+aa503399ffa11ba6,When did the home arena of the Calgary Flames receive its current name ?,2010,October 2010,0,SUCCESS,4.7456,707,4
+aa5556d1a1aa881b,When did the team with the second most games played change the spelling of their name ?,1986,1986,1,SUCCESS,49.0216,1509,4539
+ac0f04f1a4a5a45f,What is the name of the best selling album from rock band formed in Liverpool ?,Sgt . Pepper 's Lonely Hearts Club Band,Abbey Road,0,SUCCESS,4.7704,1072,3
+ad0f5ea98bb5f2bf,"Which route connects , the freeway begins at the Peace Bridge in Fort Erie and the highway that was established in 1937 due to rerouting of Highway 9 ?",Highway 25,The Queen Elizabeth Way (QEW) and Highway 89.,0,SUCCESS,4.8659,809,13
+ad56e75f142f70d6,What was the personal name of the Emperor whose documents currently reside at Daitōkyū Memorial Library ?,Liu Qi,Emperor Jing of Han.,0,SUCCESS,4.6383,961,6
+ad575b3c63388934,What is the capacty of the stadium located in the city that is the capital of the Department of Huila ?,"27,000","27,000",1,SUCCESS,4.9245,1077,3
+ae8b00d37d02253e,How many points for championships were gained by the person who finished the qualifying round of the British Grand Prix of 1952 right behind Ken Downing ?,nine,Cannot be determined from the given context.,0,SUCCESS,8.2357,2007,6153
+aebfb655f8a8c990,Which site was the target of explosives at the Olympic Games in which Chan Sau Ying was the flag carrier for Hong Kong ?,Centennial Olympic Park,Centennial Olympic Park,1,SUCCESS,4.59,726,4
+afac2f38d7c97817,Which line has a station located at the intersection of 36th Street and Northern Boulevard in Queens ?,Queens Boulevard Line,IND Queens Boulevard Line,0,SUCCESS,4.5242,910,4
+afcf8429f57d7429,What school did the player who was a pitcher for the Colorado Rockies of Major League Baseball ( MLB ) in 1996 and 1997 attend ?,Florida State,Florida,0,SUCCESS,4.4575,814,1
+b1964e29747f7cae,"The city that has a population of approximately 90,000 as at the 2016 Census has what school ?",Al-Hidayah Islamic School,Al-Hidayah Islamic School,1,SUCCESS,4.4964,707,6
+b2830fe2ee772fb1,"Who is the developer of the game that features a new game engine , added weapons and vehicles , and new multiplayer maps ?",Hired Gun,Bungie,0,SUCCESS,5.2705,951,46
+b455fe5ba8dedc3c,What is the nationality of the person to have most recently found a fossil ?,British,Ethiopian,0,SUCCESS,4.8325,814,86
+b457a25d15286377,Which river flows through this city that has the largest football stadium in England ?,the River Thames,Thames,0,SUCCESS,4.8467,900,45
+b4a157ba79201913,What country recognizes as their national language the language which is spoken by the ethnicity with 1.1 million people ?,Angola,Angola,1,SUCCESS,4.6169,878,2
+b574e8fa7ac931cd,Who is the daughter of the directer of the Argentinian film ?,Guadalupe Subiela,Guadalupe Subiela,1,SUCCESS,4.9622,893,7
+b59bcd5e44fbacfd,From where did the Generalleutnant ranked pilot graduate ?,The Deutsche Verkehrsfliegerschule ( German Commercial Flyers ' School ) in Braunschweig,Braunschweig,0,SUCCESS,4.3966,934,5
+b63c6608a085e0a5,Who presently heads the basketball team of the university attended by Ralph Talley ?,Robert Jones,Robert V. Vaughn,0,SUCCESS,4.8265,669,5
+b647b6b0f80b8330,"What is the district whose winner died on May 4 , 1825 ?",Connecticut at-large,New York 3,0,SUCCESS,5.3222,994,4
+b77833c98ba62ea6,"What is the former name of the airport that serves 5,713,859 passengers a year ?",Rancho-Boyeros Airport,José Martí International Airport,0,SUCCESS,5.3236,918,5
+b96642ae09f0931d,Which cheap airline is based in the airport in the city that is the capital of an Emirate ?,flydubai,flydubai,1,SUCCESS,4.8175,888,4
+b9c08fdad900f924,In what division does the team playing at the stadium with the lowest total attendance play ?,American Football Conference ( AFC ) South,Not provided in the context.,0,SUCCESS,18.8738,1260,1344
+bbff05702511d184,"What number pick was the player born on February 28 , 1999 ?",3,3,1,SUCCESS,3.9273,877,1
+bc251e6a97cf07cd,"What has the namesake of the airport that handled 6,453,100 flyers in 2009 been credited with contributing to ?",Mexican independence,The question cannot be answered from the provided context.,0,SUCCESS,4.0935,1109,10
+bc3898efca3a1a5e,What shoreside area contains the city where 587 were killed by a vehicle bomb on October fourteenth ?,Banadir,Hodan District,0,SUCCESS,3.8453,911,4
+be6ebff950e35063,"Which area is the island with a population of 122,974 off the coast of ?",mainland China,Taiwan,0,SUCCESS,4.0665,1133,2
+be91b0c6e9d180c8,What title did the driver who finished with a time of 1:15.643 in the qualifying round of the 1992 Hungarian Grand Prix win in his debut season ?,CART,CART Indy Car World Series,0,SUCCESS,4.5736,1174,6
+bf08cb7ab7cf80cf,"What town was the leader born in who had a secretary who was a member of the Richard Nixon , Gerald Ford , Jimmy Carter , and Ronald Reagan administrations ?",Greenwich,Hyde Park,0,SUCCESS,23.4877,801,2254
+c138bc77a3cf9afd,Who was the teacher of the winner of the Gateway to the Open Mizuno Open Yomiuri Classic in 2010 when he was 10 ?,Todd Baker,Todd Baker,1,SUCCESS,4.1802,1067,3
+c1a6c4cf9eb37522,What is the purpose of the 759 ft tower in Jersey City ?,residential complex,The context does not mention a 759 ft tower in Jersey City.,0,SUCCESS,3.7816,605,14
+c1f49af7526d9ef2,Who established the school that was the 2nd place winner of the 2002 Head of the River ( Queensland ) ?,Society of the Sacred Heart,"Based on the provided context, there is no information about the 2002 Head of the River (Queensland). Therefore, the answer cannot be determined.",0,SUCCESS,4.6782,839,32
+c2d75080a262ef86,What is the club whose home city hosts an Airbus factory ?,Getafe B,Getafe B,1,SUCCESS,3.913,646,3
+c3054d5837992224,What is the capital city of the state where the Sipat Thermal Power Station is located ?,Raipur,Raipur,1,SUCCESS,3.749,782,2
+c3d55abc5bd94b23,"Of the albums for 11:11 and A Bit of You , which album charted in more countries ?",Want One,Want One,1,SUCCESS,4.3168,933,2
+c3e1e6d2d4aafc2d,How did the musician with the single Keep Me a Secret put out his first album ?,independently,"He independently released his debut album, 'Growing flowers by candlelight'.",0,SUCCESS,3.8606,756,14
+c4269931638a5d4b,Who operates the airport that is located in Recife ?,AENA,AENA,1,SUCCESS,4.1239,510,2
+c4db1e3d2016401b,Where did the second richest person move when he was 12 ?,Philippines,The context does not provide information about where the second richest person moved when he was 12.,0,SUCCESS,3.9797,1066,19
+c73c8fc7d887a0a8,What is the approximate ( object comparison ) size of the 2008 Phone Model that was available from 5 different carrier and uses technology that is also called cdmaOne ?,Post-It Note,CDMA,0,SUCCESS,4.2439,894,2
+c75693a9f653f307,"Who was the CAA Champion when the venue was the one that was a 5,200-seat multi-purpose arena ?",Old Dominion,James Madison,0,SUCCESS,4.1194,570,2
+c76d4de6821d9636,What was the venue of the match held in a coastal seaport city in western Canada with the winner being originally organized in New Westminster in 1889 ?,Empire Stadium,Empire Stadium,1,SUCCESS,4.3344,945,3
+ca2250f5ab4cca5c,How many championship points did the driver with the highest numbered car score ?,0,Not provided.,0,SUCCESS,8.5672,941,403
+ca82ff97bf75e724,What is the official mascot of the tournament champion of the 1988 America East Conference tournament ?,Rhett the Boston Terrier,Rhett the Boston Terrier,1,SUCCESS,3.6759,699,7
+cb8e84d0c9de56ab,Which player was from the university whose home games are played at the Breslin Student Events Center ?,Adreian Payne,Denzel Valentine,0,SUCCESS,4.1796,806,3
+cbbb8559a99fab92,what is the location of the Limited event during the the seventh season of the Magic : The Gathering Pro Tour ?,Fukuoka,Kobe,0,SUCCESS,3.6282,897,2
+ce90eea9c419eb48,What is the name of the system in the city that was originally part of the 1785 Rancho San Pedro Spanish land grant ?,Beach Cities Transit,Foothill Transit,0,SUCCESS,3.9019,955,4
+cf373d6e3689d371,What is the release date of the game that is a post-apocalyptic action role-playing video game ?,2010-10-19,"October 19, 2010",0,SUCCESS,4.9776,867,7
+cf5e026618975fee,Who founded Juan Pablo Montoya 's constructor ?,Sir Frank Williams,"Juan Pablo Montoya's constructor was Williams - BMW, which was founded by Frank Williams (Williams Grand Prix Engineering).",0,SUCCESS,3.9933,895,23
+d00587e410e6a6fb,What is the best league result for a club who beat another club with paralympic sports ?,4th,Akhisar Belediyespor,0,SUCCESS,4.5554,1174,8
+d27ec782152ad273,What is the alternative name for the historic place that is located in the township that was established in 1886 and that has the date listed # 14000426 ?,Portage Entry Light,No alternative name is provided in the context.,0,SUCCESS,4.4924,769,9
+d285ff60d95251b8,"In 2009 , what percentage of its staff was lost by the developer of the game that is an Association Football manager simulation video game not available on Games for Windows - Live ?",80% of its staff,Not provided.,0,SUCCESS,7.4145,850,403
+d3335e0ca2b08f9d,"What is the suburb of the school that enrolled approximately 1,500 students in 2018 ?",Bossley Park,Bossley Park,1,SUCCESS,3.855,733,4
+d60704ac4cc2da4c,The senator whose hometown is named after two prominent Cherokee brothers was born when ?,"September 30 , 1957","September 30, 1957",1,SUCCESS,4.0901,840,7
+d67b931721866e23,What services does the station have that is located between Avenue of the Americas and Seventh Avenue ?,"1 , 2 , 3",The context does not specify the services.,0,SUCCESS,6.2864,491,291
+d6c10e611a4dbe27,What team did Pakistan play in the city founded by the Mughal Emperor Jehangir in 1607 ?,Zimbabwe,Sheikhupura,0,SUCCESS,4.2107,839,4
+da267c6aeaf319d7,Which driver had the most races in a single season and had a team that is one of the oldest surviving ?,Michael Schumacher,Michael Schumacher,1,SUCCESS,5.3745,1079,86
+dbdf97034d2032fa,What year was representative that served as mayor of the village of Shreve first elected ?,2000,2000,1,SUCCESS,4.3363,782,2
+dc079bcf5579f90a,Where was the person who set a record in 1937 born ?,Russian,Soviet Union,0,SUCCESS,4.0874,1016,3
+dc897ef87af1d657,What is the estimated population of the hometown of the first African American winner of Miss Teen USA ?,"112,525",The context does not provide the estimated population of Janel Bishop's hometown.,0,SUCCESS,3.8023,435,15
+dd343cbef7194448,"Which athlete from the country whose largest city is New York , was sanctioned for using a substance composed of tetrahydrocannabinol ?",John Capel,John Capel,1,SUCCESS,5.7964,1015,175
+dd5193a033335d06,The director of `` Day for Night '' also directed a film submitted to the 53rd Academy Awards that starred what two actors ?,Catherine Deneuve and Gérard Depardieu,Jacqueline Bisset and Jean-Pierre Léaud,0,SUCCESS,4.686,715,10
+dd7056864066ae9b,"Between and Lahaina Historic District and Keauhou Holua Slide , which landmark 's location has the bigger population ?",Lahaina Historic District,Lahaina Historic District,1,SUCCESS,6.4574,855,249
+ddd38b104753a219,How many ODIs has the stadium first used in 2012 hosted ?,4,The context does not provide the number of ODIs for the MCA Stadium.,0,SUCCESS,8.2943,922,430
+de1ddb5e317d586a,What is the birth date of the athlete from the country whose capital is Ankara and was sanctioned for using the brand Primobolan ?,"June 10 , 1983","The context does not contain birth dates or the brand name ""Primobolan"".",0,SUCCESS,4.5033,1037,16
+de9ea9da4ae38867,Who beat the team in the World Series whose manager managed the Toronto Blue Jays from 1982 to 1985 ?,Minnesota Twins,Kansas City Royals,0,SUCCESS,4.1323,842,4
+def14dfb63601b8c,Does Butan or Manila house a university with preschool level courses ?,Butuan,Manila,0,SUCCESS,3.69,709,2
+df6dd91355b06c9b,What is the name of the racecourse whose location was recognized by the Queen in 1957 because of the presence of Windsor Castle ?,Abingdon Racecourse,Ascot Racecourse,0,SUCCESS,3.9961,785,4
+e228c3113d522304,What are the remarks of the treasure whose present location is considered the oldest national museum in Japan ?,"Letter from Dahui 's exile in Meizhou to his friend , the lay practitioner Wuxiang",87 National Treasures of Japan,0,SUCCESS,4.3527,807,6
+e2c7281b63d72876,What is the difference in age between the man who is chairman of the Clermont Group and Lucio Tan ?,25 years,24 years,0,SUCCESS,6.9644,783,270
+e31fb506167c7774,How long is the most heavily traveled part of the highway that has the highway that was rerouted south of Tonawanda going to it ?,50-mile,Not enough information in the context.,0,SUCCESS,14.3722,963,1114
+e3e27fd1ae0996e4,What is the former name of the stadium where the only NFL team to record 20 straight winning seasons plays ?,Cowboys Stadium,AT&T Stadium,0,SUCCESS,4.7036,822,3
+e4b5380fae695563,What is the name of the second oldest opponent he played against between 1989 and 1991 ?,Mike Hallett,Tony Knowles,0,SUCCESS,47.4592,1017,4963
+e5537f254c94bdea,What district is the city in Austria that hosted the Diplomacy Tournament located in ?,Oberpullendorf,Lockenhaus,0,SUCCESS,4.4257,727,3
+e733a6c3cddfcb96,"This former Ohio Senator and Representative also served as Chancellor of the Ohio Department of Higher Education , and he lives in a city that is the county seat of what county ?",Wood County,Fairfield County,0,SUCCESS,3.7674,772,3
+e7a00d0aaf9df0b9,"For the player born June 26 , 1984 , what national team did he play on ?",Puerto Rican National Team,"The context does not mention any national team for the player born June 26, 1984.",0,SUCCESS,4.5082,954,20
+e7b90e468d1f5c5d,Who does the skater to finish 18th in the short program compete with ?,Sarah May Coward,Mark Vaillant,0,SUCCESS,3.8701,877,4
+e845c0b004d56121,What is the population of the home country of Elena Pingacheva ?,146.7 million,Russia,0,SUCCESS,4.228,1147,1
+e85592eec27d9748,What is the 2018 population of the 'Notes on Poetic Style Through the Ages ' treasure 's present location ?,1.47 million,The context does not contain information about the 2018 population of any location.,0,SUCCESS,4.6711,934,16
+e916a52a69172bdb,"How many times did the Husky of Honor with a hometown in Glenn Heights , Texas win the Nancy Lieberman Award ?",two,2,0,SUCCESS,4.9906,909,110
+e977b50b006e6675,What is the 1993 population estimate of the city that is the second-largest city in Myanmar ?,"885,287","885,287",1,SUCCESS,4.7476,953,63
+e9a3e2d35fd03de0,The driver who finished at position 4 in the 2005 Japanese Grand Prix was of born in what year ?,1983,1986,0,SUCCESS,4.6369,1002,2
+e9f351a7b62a265d,"Which prehistoric immigrants got to the continent of the nation with 500,000 residents with origins in Lebanon ?",Paleo-Indians,Prehistoric immigrants are not mentioned in the context.,0,SUCCESS,4.038,713,10
+eb023128000a9684,How many uninterrupted baseball seasons of more wins than losses have happened at the university attended by Todd Moser ?,19,Not available,0,SUCCESS,6.1303,778,200
+eb942674cf7dbefc,"What is the nation of the athlete who was born on August 1 , 1979 ?",China,United States,0,SUCCESS,3.9985,1311,2
+ec037baed0aa50f1,Which team won their 2nd MVC Tournament title against Indiana State ?,Creighton,Illinois State Redbirds,0,SUCCESS,4.0415,667,5
+ec394404f4f90a8f,What was the house in Cass County as station of ?,Underground Railway,The provided context does not mention any house in Cass County as a station.,0,SUCCESS,4.5803,655,15
+ee399f2d2ebcdcac,What animal returns yearly to rear offspring in the park near La Pointe ?,Bald eagles,The context does not mention any animal returning yearly to rear offspring in a park near La Pointe.,0,SUCCESS,4.7642,804,20
+ee5421c71f255ed1,What is the championship team whose top scorer was born on 25 November 1918 ?,Partizan,Crvena Zvezda,0,SUCCESS,4.3373,1133,6
+ef1dde11fb06ae2c,In which state lays the burial place of the United States president that led the Union Army as Commanding General of the United States Army in winning the American Civil War ?,New York City,Illinois,0,SUCCESS,4.2067,854,2
+f03b32990d52cca0,How many square km is the area of the country of the pair ranked 2nd at the 2011 NRW Trophy ?,"357,386","357,386",1,SUCCESS,13.9771,797,1115
+f1a039aa92cccb1a,What is the population of the city for the school that opened in 1907 ?,"57,449 people",2.06 million,0,SUCCESS,4.0272,815,4
+f227f54a03795a22,The driver who held the record for most Grand Prix victories until 2001 finished in what position ?,7,7,1,SUCCESS,5.3483,981,65
+f2d83183153d88aa,Which institution established in 1982 is located in a place that is also known as Kovai and Koyamuthur ?,Bharathiar University,Bharathiar University,1,SUCCESS,4.4395,883,5
+f2ec5fc631adce01,"What is the residence of the Senator born September 18 , 1971 ?",Toledo,Maineville,0,SUCCESS,4.3591,549,3
+f50907ea0bc6a4bb,How many beds are available in the city named after the only U.S . Senator ever killed in military combat ?,25,Not available,0,SUCCESS,7.4742,755,348
+f56c21143cf5b74b,How many seats is the twin turboprop transport/passenger aircraft designed in 1957 manufactured by the company that works closely with a turbine manufacturer located in Zaporizhia ?,44,44,1,SUCCESS,9.2161,707,651
+f72c59ef1f8f8487,"what is the elevation of a dormant volcano in the Caucasus Mountains in Southern Russia , near the border with Georgia ?","5,642","5,642 metres (18,510 ft)",0,SUCCESS,4.3827,1177,10
+f7b1af6c319f738b,What is the full name of the person who won a medal in 1948 ?,Mohammad-Jafar Salmasi,Mohammad-Jafar Salmasi,1,SUCCESS,4.0974,771,7
+f803595848937dc5,Which Ohio county does Randy Gardner live in ?,Wood County,Wood County,1,SUCCESS,4.024,712,2
+f8f1251afbf858c8,What has the school of the tournament runner up of the 1990 America East Conference tournament won national championships in ?,skiing,The context does not provide information about national championships won by the school of the tournament runner-up (Vermont) in 1990.,0,SUCCESS,4.779,847,27
+f939124fdda40299,How many drivers does the constructor known as `` The Prancing Horse '' have ?,2,2,1,SUCCESS,5.4254,1004,133
+f9d9765f070f754f,The third busiest airport in Brazil has what IATA code ?,BSB,BSB,1,SUCCESS,4.2045,1143,2
+f9f0e36fd2d69b23,How many times in F1 did the person who finished the Hungarian Grand Prix qualifier in 1:18.515 in 1999 finish a race fastest ?,three,Not available.,0,SUCCESS,7.7665,1063,352
+fc9605cb355ae05c,What person is apart of the Electorate that was located in the adjacent Buller electorate until 1887 ?,Patrick O'Regan,Patrick O'Regan,1,SUCCESS,4.0739,585,5
+fe656b138209535c,What is the % change of the Metropolitan statistical area which is built around the Mississippi river ?,+8.37%,+0.29%,0,SUCCESS,4.604,1183,5
+ffa3e77e60668296,How many cylinders did the manufacturers use whose country is the third largest country by area ?,14,The context does not provide cylinder count information for any manufacturer.,0,SUCCESS,4.9411,696,128
+ffd446eb1b40e694,"What is the league whose city has a history of over 2,200 years and was a major terminus of the maritime Silk Road ?",Hong Kong Premier League,Chinese Super League,0,SUCCESS,3.7076,898,3
+ffe6d113dfde5427,"Of the free and open source software browsers , which is currently on stable version 10 ?",Android,None.,0,SUCCESS,3.7478,697,2
